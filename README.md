@@ -25,9 +25,9 @@ riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citatio
 
 ## 🔬 Research Interests
 
-- 🧠 **Mechanistic Interpretability and Explainable AI**: Dissecting internal operations of deep networks, especially LLMs and vision transformers.
-- 🧩 **Sparse and Interpretable Architectures**: Transcoders, sparse autoencoders, and concept bottleneck models.
-- 📊 **Data Science and Knowledge Management**: Graph-structured summaries, RAG pipelines, and multi-hop QA.
+- 🧠 **Mechanistic Interpretability and Explainable AI (MI, XAI)**: Dissecting internal operations of deep networks such as LLMs, ViTs and CNNs.
+- 🧩 **Sparse and Interpretable Architectures**: Transcoders, Sparse Autoencoders (SAEs), and Concept Bottleneck Models (CBMs).
+- 📊 **Data Science and Knowledge Management**: Knowledge Graphs (KGs) indexing and retrieval, RAG pipelines, and Multi-Hop QA (MH-QA).
 - 📉 **Anomaly and Drift Detection**: FFT-based analysis of generated text for early warning of model failure.
 
 ---
@@ -36,11 +36,11 @@ riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citatio
 
 | Project | Role | Status | Key Contributions |
 |---|---|---|---|
-| **Transcoders for LLM Blocks** | Lead Researcher | In Progress | Designed sparse, fully interpretable networks approximating dense transformer blocks with explicit interpretability/performance trade-offs. |
+| **Transcoders for LLM Blocks** | Lead Researcher | In Progress | Designed sparse, fully interpretable networks approximating dense transformer blocks with interpretability/performance trade-offs. |
 | **FFT-Based Anomaly Detection in LLMs** | Lead Researcher | In Progress | Developed frequency-domain signal analysis on sparse features to detect drift and generation failure modes. |
 | **Concept Bottleneck Integration** | Lead Researcher | In Progress | Integrated sparse autoencoder features into a concept bottleneck framework, improving interpretability and training efficiency. |
 | **Synthetic Concept Generation (MIT Collaboration)** | Lead Researcher | In Progress | Formalized and evaluated generative models for concept images in XAI; XAI4CV at CVPR(W) 2025; CVPR(F) 2026. |
-| **Multi-Hop RAG QA** | Lead Researcher | In Progress | Built a graph-structured, entity-centric summarization engine for long-context reasoning; under review. |
+| **Multi-Hop RAG QA** | Lead Researcher | In Progress | Built a graph-structured, entity-centric summarization engine for long-context, multi-hop reasoning; under review. |
 | **Biomedical AI for ARDS** | Lead Researcher | Completed | Applied machine learning to predict Helmet-CPAP therapy failure in ARDS patients. |
 | **Activation-Based Visual Concept Extraction** | Co-author | Completed | Developed an activation-based method for extracting visual concepts from CNNs; XAI4CV at CVPR(W) 2026. |
 | **TCAV Enhancement (MIT Collaboration)** | Co-author | Completed | Extended TCAV with magnitude-aware attribution and activation visualization; under review. |
