@@ -74,7 +74,7 @@ riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citatio
 
 ### Supervision and Academic Service
 
-- 🎓 **Master's Thesis Supervisor**: 20+ MSc theses (2024-2026) in explainable AI, mechanistic interpretability, knowledge management, knowledge graphs, and RAG.
+- 🎓 **Master's Thesis Supervisor**: 20+ MSc theses (2024-2026) in XAI & MI, Knowledge Management, KGs, and RAG.
 - 🗣 **Data Science Lab Seminars**: Speaker on interpretability, sparse architectures, and knowledge management (2024-2026).
 
 ---
