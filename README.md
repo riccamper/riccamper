@@ -83,7 +83,6 @@ riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citatio
 
 | Area | Stack |
 |---|---|
-| **Languages** | Python, R, C++, JavaScript |
 | **AI Frameworks** | PyTorch, TensorFlow, Hugging Face Transformers |
 | **Knowledge Graph and Semantic Web** | RDFLib, SPARQL |
 | **RAG and LLM Stack** | Ollama, embedding pipelines, vector & graph search |
