@@ -8,7 +8,7 @@ Politecnico di Milano, DEIB, Italy
 riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it)
 <br>[GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
 
-> Building interpretable AI systems for reliable reasoning, concept discovery, and human-centered decision support.
+> **“Designing interpretable AI systems that deliver reliable reasoning, uncover hidden concepts, and enable actionable decision‑making.”**
 
 </div>
 
@@ -96,12 +96,3 @@ riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citatio
 ## 🌍 Outreach and Community
 
 - 🖥 **Data Science Lab Website Maintainer**: Curated tutorials, datasets, and project showcases.
-
----
-
-## 📫 Contact
-
-**Riccardo Campi**  
-PhD Student, DEIB - Politecnico di Milano  
-riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it)
-<br>[GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
