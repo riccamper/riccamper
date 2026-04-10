@@ -90,9 +90,11 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
+- A. De Santis, <u>R. Campi</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://arxiv.org/abs/2411.05698)**", Accepted for publication at *Transactions on Machine Learning Research (TMLR)*, 2025.
+
 - <u>R. Campi</u>, A. De Santis, P. Colombo, P. Scarpazza and M. Masseroli, "**[Foundational approaches to post-hoc explainability for image classification](https://doi.org/10.1016/j.cmpb.2024.108574)**", *Computer Methods and Programs in Biomedicine (CMPB)*, vol. 260, 2025, 108574, ISSN 0169-2607.
 
-- <u>R. Campi</u>, M. Giudici, N. O. Pinciroli Vago, M. Brambilla and P. Fraternali, "**[Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency](https://doi.org/10.1609/aaaiss.v5i1.35554)**", *Proceedings of the2025 AAAI Spring Symposium Series*, vol. 5, no. 1, pp. 52-55, May 2025.
+- <u>R. Campi</u>, M. Giudici, N. O. Pinciroli Vago, M. Brambilla and P. Fraternali, "**[Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency](https://doi.org/10.1609/aaaiss.v5i1.35554)**", *Proceedings of the 2025 AAAI Spring Symposium Series*, vol. 5, no. 1, pp. 52-55, May 2025.
 
 </div>
 
@@ -117,8 +119,6 @@ _* indicates equal attribution among the marked authors._
 <div align="left">
 
 - <u>R. Campi</u>, N. O. Pinciroli Vago, M. Giudici, M. Brambilla and P. Fraternali, "**[TCAV Enhancement with Magnitude-Aware Attribution and Activation Visualization](https://arxiv.org/abs/2604.12345)**", *arXiv:2604.12345*, 2026.
-
-- A. De Santis, <u>R. Campi</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://arxiv.org/abs/2411.05698)**", *arXiv:2411.05698*, 2025.
 
 <!--- <u>R. Campi</u>, M. Bianchi*, F. P. Panaccione*, C. Bonacina, A. Guerrieri, M. Piluso, P. Scarpazza and M. Brambilla, "**H-CPAP Dataset: A Clinical Dataset of COVID-19 and Non-COVID Pneumonia Patients with Respiratory Failure Treated with Helmet Continuous Positive Airway Pressure**", 2026.-->
 
