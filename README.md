@@ -160,15 +160,15 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **CVPR 2026**: <br>Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026 (upcoming).
+- **CVPR 2026**: <br>Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA (upcoming).
 
-- **CVPR 2025**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA, 2025.
+- **CVPR 2025**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA.
 
-- **ICWE 2025**: <br>Oral presentation of "**A Graph-Based RAG for Energy Efficiency Question Answering**", <br>Delft, Netherlands, 2025.
+- **ICWE 2025**: <br>Oral presentation of "**A Graph-Based RAG for Energy Efficiency Question Answering**", <br>Delft, Netherlands.
 
-- **AAAI Spring Symposium 2025**: <br>Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", <br>Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", <br>San Francisco, CA, USA, 2025.
+- **AAAI Spring Symposium 2025**: <br>Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", <br>Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", <br>San Francisco, CA, USA.
 
-- **ISWS 2025**: <br>Poster presentation on RAG and KGs, <br>Bertinoro, Italy, 2025.
+- **ISWS 2025**: <br>Poster presentation on RAG and KGs, <br>Bertinoro, Italy.
 
 </div>
 
@@ -220,15 +220,13 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **2024 European Conference on Computer Vision (ECCV 2024)** <br>Milan, Italy, 2024.
+- **2024 European Conference on Computer Vision (ECCV 2024)** <br>Milan, Italy.
 
-- **2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)** <br>online, 2025.
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA.
 
-- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA, 2026.
+- **2025 International Conference on Web Engineering (ICWE 2025)** <br>Delft, Netherlands.
 
-- **2025 International Conference on Web Engineering (ICWE 2025)** <br>Delft, Netherlands, 2025.
-
-- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems** <br>San Francisco, CA, USA, 2025.
+- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems** <br>San Francisco, CA, USA.
 
 </div>
 
@@ -254,17 +252,17 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **MIT Collaboration for XAI**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
+- **MIT Collaboration for XAI**: <br>Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
 
-- **XJTU–POLIMI Joint School**: Collaboration for teaching activities in the field of Data Science.
+- **XJTU–POLIMI Joint School**: <br>Collaboration for teaching activities in the field of Data Science.
 
-- **Vimercate Hospital, Italy**: Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
+- **Vimercate Hospital, Italy**: <br>Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
 
-- **SUPSI University, Switzerland**: Collaboration for the development of a graph-based RAG system for energy efficiency.
+- **SUPSI University, Switzerland**: <br>Collaboration for the development of a graph-based RAG system for energy efficiency.
 
-- **Università di Pisa, Italy**: Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
+- **Università di Pisa, Italy**: <br>Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
 
-- **Polimi Data Scientists**: Collaboration with "Polimi Data Scientists" MSc students on various research projects.
+- **Polimi Data Scientists**: <br>Collaboration with "Polimi Data Scientists" MSc students on various research projects.
 
 </div>
 
@@ -280,11 +278,11 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Web and Data Science Course Projects**: Supervised *Web and Data Science* course projects for MSc students at Politecnico di Milano (2025-2026).
+- **Web and Data Science Course Projects** (2025-2026): <br>Supervised *Web and Data Science* course projects for MSc students at Politecnico di Milano.
 
-- **MIT Collaboration for XAI**: Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI (2024-2025).
+- **MIT Collaboration for XAI** (2024-2025): <br>Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI.
 
-- **Polimi Data Scientists**: Supervised "Polimi Data Scientists" MSc students on various research projects, including RAG, KGs, and XAI (2024-2025).
+- **Polimi Data Scientists** (2024-2025): <br>Supervised "Polimi Data Scientists" MSc students on various research projects, including RAG, KGs, and XAI.
 
 </div>
 
