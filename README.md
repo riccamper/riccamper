@@ -26,10 +26,14 @@ riccardo (dot) campi (at) polimi (dot) it
 
 ### Academic Degrees
 
-- **Ongoing PhD in Information Technology**, Politecnico di Milano, Milan – IT – 2024 – present  
-- **MSc in Computer Science and Engineering**, Politecnico di Milano, Milan – IT – 2020 – 2023  
-- **BSc in “Ingegneria Informatica”**, Politecnico di Milano, Milan – IT – 2017 – 2020  
-- **Scientific High School Diploma**, Liceo Scientifico Galilei, Tarquinia – IT – 2012 – 2017
+<div align="left">
+
+- **Ongoing PhD in Information Technology** (2024 - present), Politecnico di Milano, Milan, Italy.
+- **MSc in Computer Science and Engineering** (2020 - 2023), Politecnico di Milano, Milan, Italy.
+- **BSc in “Ingegneria Informatica”** (2017 - 2020), Politecnico di Milano, Milan, Italy.
+- **Scientific High School Diploma** (2012 - 2017), Liceo Scientifico "G. Galilei", Tarquinia, Italy.
+
+</div>
 
 <br>
 
@@ -104,8 +108,6 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-_* indicates equal attribution among the marked authors._
-
 <br>
 
 ### Preprints
@@ -132,17 +134,17 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: Dissecting internals of deep networks such as LLMs, Vision Transformers (ViTs) and CNNs.
+- **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: <br>Dissecting internals of deep networks such as LLMs, Vision Transformers (ViTs) and CNNs.
 
-  - **Concept-based Explainability**: Designing algorithms that use human-understandable visual concepts to explain how image models ground their decisions.
+  - **Concept-based Explainability**: <br>Designing algorithms that use human-understandable visual concepts to explain how image models ground their decisions.
 
-  - **Sparse and Interpretable Architectures**: Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
+  - **Sparse and Interpretable Architectures**: <br>Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
 
-  - **FFT-based Anomaly and Drift Detection**: Analyzing spectral, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
+  - **FFT-based Anomaly and Drift Detection**: <br>Analyzing spectral, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
 
-- **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
+- **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: <br>Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
 
-- **Biomedical AI**: Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
+- **Biomedical AI**: <br>Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
 
 </div>
 
@@ -158,19 +160,15 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **CVPR(F) 2026**: Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", Denver, CO, USA, 2026 (upcoming).
+- **CVPR 2026**: <br>Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026 (upcoming).
 
-- **CVPR(W) 2026**: Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", Denver, CO, USA, 2026 (upcoming).
+- **CVPR 2025**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA, 2025.
 
-- **CVPR(W) 2025**: Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", Nashville, TN, USA, 2025.
+- **ICWE 2025**: <br>Oral presentation of "**A Graph-Based RAG for Energy Efficiency Question Answering**", <br>Delft, Netherlands, 2025.
 
-- **ICWE 2025**: Oral presentation of "**A Graph-Based RAG for Energy Efficiency Question Answering**", Delft, Netherlands, 2025.
+- **AAAI Spring Symposium 2025**: <br>Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", <br>Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", <br>San Francisco, CA, USA, 2025.
 
-- **AAAI Spring Symposium 2025**: Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", San Francisco, CA, USA, 2025.
-
-- **AAAI Spring Symposium 2025**: Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", San Francisco, CA, USA, 2025.
-
-- **International Semantic Web Research Summer School (ISWS 2025)**: Poster presentation on RAG and KGs, Bertinoro, Italy, 2025.
+- **ISWS 2025**: <br>Poster presentation on RAG and KGs, <br>Bertinoro, Italy, 2025.
 
 </div>
 
@@ -180,11 +178,11 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Data Science Seminar**: Delivered a seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", Politecnico di Milano, IT, April 9th, 2025.
+- **Data Science Seminar**: <br>Seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", <br>Politecnico di Milano, Italy, April 9th, 2025.
 
-- **Reply S.r.l. Code Challenge "Prompting the Future"**: Served as Judge for the competition as Data Science Lab Representative, Nov 30th, 2024.
+- **Reply S.r.l. Code Challenge "Prompting the Future"**: <br>Judge for the competition as Data Science Lab Representative, <br>Milan, Italy, Nov 30th, 2024.
 
-- **BEST Academy Workshop (BEST Milan & Levels Tech)**: Delivered a workshop on "Document Intelligence" as Data Science Lab Representative, Oct 31st, 2024.
+- **BEST Academy Workshop (BEST Milan & Levels Tech)**: <br>Workshop on "Document Intelligence" as Data Science Lab Representative, <br>Milan, Italy, Oct 31st, 2024.
 
 </div>
 
@@ -194,7 +192,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Energenius Project**: Task contributor in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
+- **Energenius Project**: <br>Task contributor in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
 
 </div>
 
@@ -204,9 +202,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Peer Reviewer**: NeurIPS 2024, CVPR 2025, ICML 2025, AAAI SSS 2025, ICWE 2025, AAAI 2026, AISTATS 2026, CVPR 2026, ICML 2026.
+- **Peer Reviewer**: <br>NeurIPS 2024, CVPR 2025, ICML 2025, AAAI SSS 2025, ICWE 2025, AAAI 2026, AISTATS 2026, CVPR 2026, ICML 2026.
 
-- **Website Maintainer**: Maintaining the [Data Science Lab](https://datascience.deib.polimi.it/) website, curating content and resources for students and researchers.
+- **Website Maintainer**: <br>Maintaining the [Data Science Lab](https://datascience.deib.polimi.it/) website, curating content and resources for students and researchers.
 
 </div>
 
@@ -222,15 +220,15 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **2024 European Conference on Computer Vision (ECCV 2024)**, Milan, Italy, 2024.
+- **2024 European Conference on Computer Vision (ECCV 2024)** <br>Milan, Italy, 2024.
 
-- **2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)**, online, 2025.
+- **2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)** <br>online, 2025.
 
-- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**, Denver, CO, USA, 2026.
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA, 2026.
 
-- **2025 International Conference on Web Engineering (ICWE 2025)**, Delft, Netherlands, 2025.
+- **2025 International Conference on Web Engineering (ICWE 2025)** <br>Delft, Netherlands, 2025.
 
-- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems**, San Francisco, CA, USA, 2025.
+- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems** <br>San Francisco, CA, USA, 2025.
 
 </div>
 
@@ -240,9 +238,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Complex Networks: Theory, Methods, and Applications (2024)**, Politecnico di Milano, Como, Italy, 2024.
+- **Complex Networks: Theory, Methods, and Applications (2024)** <br>Politecnico di Milano, Como, Italy, 2024.
 
-- **2025 International Semantic Web Research Summer School (ISWS 2025)**, Bertinoro, Italy, 2025.
+- **2025 International Semantic Web Research Summer School (ISWS 2025)** <br>Bertinoro, Italy, 2025.
 
 </div>
 
@@ -284,7 +282,7 @@ _* indicates equal attribution among the marked authors._
 
 - **Web and Data Science Course Projects**: Supervised *Web and Data Science* course projects for MSc students at Politecnico di Milano (2025-2026).
 
-- **MIT Collaboration for XAI**: Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI. (2024-2025).
+- **MIT Collaboration for XAI**: Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI (2024-2025).
 
 - **Polimi Data Scientists**: Supervised "Polimi Data Scientists" MSc students on various research projects, including RAG, KGs, and XAI (2024-2025).
 
@@ -294,49 +292,49 @@ _* indicates equal attribution among the marked authors._
 
 ### Master's Thesis Co-Supervisor
 
-All these are supervised by Prof M. Brambilla.
-
 <div align="left">
 
 - **Explainable AI and Mechanistic Interpretability:**
 
-  - Giacomo Astolfi: "**A closer look at text-to-image generation for concept-based explainability**", 2025.
+  - Giacomo Astolfi (2025): <br>"**A closer look at text-to-image generation for concept-based explainability**".
   
-  - Sara Cavallini: ongoing.
+  - Sara Cavallini: <br>ongoing.
   
-  - Alessandro Cogollo: ongoing.
+  - Alessandro Cogollo: <br>ongoing.
   
-  - Daniele Di Santi: "**Concept-based explanations for image classifiers using textual prompts**", 2025.
+  - Daniele Di Santi (2025): <br>"**Concept-based explanations for image classifiers using textual prompts**".
   
-  - Tommaso Giordano: "**Discovering sparse concept graphs for mechanistic interpretability in vision transformers**", 2025.
+  - Tommaso Giordano (2025): <br>"**Discovering sparse concept graphs for mechanistic interpretability in vision transformers**".
   
-  - Martina Maiorana: ongoing.
+  - Martina Maiorana: <br>ongoing.
   
-  - Sara Merengo: "**Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models**", 2024.
+  - Sara Merengo (2024): <br>"**Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models**".
   
-  - Pierluigi Porri: "**Addressing scale-invariance and missing context in concept-based explainability for CNNs**", 2025.
+  - Pierluigi Porri (2025): <br>"**Addressing scale-invariance and missing context in concept-based explainability for CNNs**".
   
-  - Giovanni Visi, ongoing.
+  - Giovanni Visi, <br>ongoing.
 
 - **Knowledge Management, KGs, and RAG:**
   
-  - Matteo Angelini: "**Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain**", 2025.
+  - Matteo Angelini (2025): <br>"**Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain**".
   
-  - Michele Bersani: "**A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs**", 2026.
+  - Michele Bersani (2026): <br>"**A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs**".
   
-  - Alfredo Ceci: "**Property Graph RAG: An LLM-driven Approach**", 2025.
+  - Alfredo Ceci (2025): <br>"**Property Graph RAG: An LLM-driven Approach**".
   
-  - Davide Morelli: "**MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs**", 2026.
+  - Davide Morelli (2026): <br>"**MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs**".
   
-  - Martina Riva: "**LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References**", 2026.
+  - Martina Riva (2026): <br>"**LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References**".
   
-  - Zhenzhen Shan: ongoing.
+  - Zhenzhen Shan: <br>ongoing.
 
 - **Biomedical AI:**
 
-  - Alessia Marino: "**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**", 2025.
+  - Alessia Marino (2025): <br>"**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**".
 
 </div>
+
+_All these are supervised by Prof M. Brambilla._
 
 </div>
 
@@ -350,17 +348,17 @@ All these are supervised by Prof M. Brambilla.
 
 <div align="left">
 
-- __*Data Science* course__ (2025-2026), MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration.
+- __*Data Science* course__ (2025-2026): <bR>MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration, China.
 
-- __*Systems and Methods for Big and Unstructured Data*__ (2025-2026), 5 CFUs, MSc, Politecnico di Milano.
+- __*Systems and Methods for Big and Unstructured Data*__ (2025-2026): <br>5 CFUs, MSc, Politecnico di Milano, Italy.
 
-- __*Web and Data Science*__ (2025-2026), 5 CFUs, MSc, Politecnico di Milano.
+- __*Web and Data Science*__ (2025-2026): <br>5 CFUs, MSc, Politecnico di Milano, Italy.
 
-- __*Prova Finale di Ingegneria del Software*__ (2024-2025), 3 CFUs, BSc, Politecnico di Milano.
+- __*Prova Finale di Ingegneria del Software*__ (2024-2025): <bR>3 CFUs, BSc, Politecnico di Milano, Italy.
 
-- __*Informatica B*__ (2024-2025), 7 CFUs, BSc, Politecnico di Milano.
+- __*Informatica B*__ (2024-2025): <br>7 CFUs, BSc, Politecnico di Milano, Italy.
 
-- __Private tutoring__ for various computer science topics (2024-2025), BSc and MSc.
+- __Private tutoring__ for various computer science topics (2024-2025): <br>BSc and MSc students, Lombardy, Italy.
 
 </div>
 
@@ -370,11 +368,11 @@ All these are supervised by Prof M. Brambilla.
 
 <div align="left">
 
-- **ENI S.p.A.**: Held a 4 hours course on Knowledge Management, Knowledge Graphs, and Retrieval Augmented Generation for the employees of ENI, Milan, Italy, November 2025.
+- **ENI S.p.A.** (November 2025): <br>Held a 4 hours course on Knowledge Management, Knowledge Graphs, and Retrieval Augmented Generation for the employees of ENI, Milan, Italy.
 
-- **Keysight Technologies S.r.l.**: Held a 16 hours course on Explainable Artificial Intelligence for the employees of Keysight Technologies, Milan, Italy, February 2025.
+- **Keysight Technologies S.r.l.** (February 2025): <br>Held a 16 hours course on Explainable Artificial Intelligence for the employees of Keysight Technologies, Milan, Italy.
 
-- **RCS Media Group S.r.l.**: Held a 4 hours course on Advanced Python Programming for the employees of RCS Media Group, Milan, Italy, July 2024.
+- **RCS Media Group S.r.l.** (July 2024): <br>Held a 4 hours course on Advanced Python Programming for the employees of RCS Media Group, Milan, Italy.
 
 </div>
 
@@ -388,20 +386,27 @@ All these are supervised by Prof M. Brambilla.
 
 ### Professional Experience
 
-| Year | Role | Organization | Description |
-|---|---|---|---|
-| 2023 - 2024 | Research Fellow | Politecnico di Milano | Conducting research in Explainable AI, Mechanistic Interpretability, Knowledge Graphs, RAG, and Biomedical AI; teaching courses; supervising theses; collaborating on research projects. |
-| 2016 - 2020 | Webmaster & Social Media Manager | Optical Expert S.r.l. | Managed the company website, social media accounts, and online marketing efforts. |
+<div align="left">
+
+- **Research Fellow**, **Politecnico di Milano** (2023 - 2024): <br>Conducting research in Explainable AI, Mechanistic Interpretability, Knowledge Graphs, RAG, and Biomedical AI; teaching courses; supervising theses; collaborating on research projects.
+
+- **Webmaster & Social Media Manager**, **Optical Expert S.r.l.** (2016 - 2020): <br>Managed the company website, social media accounts, and online marketing efforts.
+
+</div>
 
 <br>
 
 ### Service & Volunteering
 
-| Year | Role | Organization | Description |
-|---|---|---|---|
-| 2023 - 2024 | Ambulance Transport Operator | Croce d'Oro Milano ONLUS | Provided emergency transport services for patients in need. |
-| July - August 2019 | Background Actor | Lotus Production S.r.l. | Participated as a background actor in the film "Gli anni più belli" directed by Gabriele Muccino. |
-| 2016 - 2017 | Football Referee | AIA Civitavecchia, FIGC | Officiated football matches for the U14 PROVINCIAL C11 MALE category. |
+<div align="left">
+  
+- **Ambulance Transport Operator**, **Croce d'Oro Milano ONLUS** (2023-2024): <br>Provided emergency transport services for patients in need.
+
+- **Background Actor**, **Lotus Production S.r.l.** (July - August 2019): <br>Participated as a background actor in the film *Gli anni più belli* directed by Gabriele Muccino.
+
+- **Football Referee**, **AIA Civitavecchia, FIGC** (2016 - 2017): <br>Officiated football matches for the U14 PROVINCIAL C11 MALE category.
+
+</div>
 
 </div>
 
@@ -411,11 +416,15 @@ All these are supervised by Prof M. Brambilla.
 
 ## Language Certifications
 
-| Language | Level |
-|---|---|
-| **Italian** | Native proficiency |
-| **Spanish** | Fluent (family<br>background) |
-| **English** | Professional working<br>proficiency (TOEIC certified) |
+<div align="left">
+
+- **Italian**: Native proficiency.
+
+- **Spanish**: Fluent (family background).
+
+- **English**: Professional working proficiency (TOEIC certified).
+
+</div>
 
 </div>
 
@@ -425,13 +434,19 @@ All these are supervised by Prof M. Brambilla.
 
 ## Technical Skills
 
-| Area | Stack |
-|---|---|
-| **AI Frameworks** | PyTorch, TensorFlow, Hugging Face Transformers |
-| **Knowledge Graph and Semantic Web** | RDFLib, SPARQL, Neo4j |
-| **RAG and LLM Stack** | Ollama, LangChain, embedding pipelines, vector & graph search, ChromaDB |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scipy |
-| **Tools** | Jupyter, Docker, Git, LaTeX, draw.io, VS Code, Linux/Unix environments |
+<div align="left">
+  
+- **AI Frameworks**: <br>PyTorch, TensorFlow, Hugging Face Transformers.
+
+- **Knowledge Graph and Semantic Web**: <br>RDFLib, SPARQL, Neo4j.
+
+- **RAG and LLM Stack**: <br>Ollama, LangChain, embedding pipelines, vector & graph search, ChromaDB.
+
+- **Data Science**: <br>Pandas, NumPy, Scikit‑learn, Matplotlib, Seaborn, SciPy.
+
+- **Tools**: <br>Jupyter, Docker, Git, LaTeX, draw.io, VS Code, Linux/Unix environments.
+
+</div>
 
 </div>
 
