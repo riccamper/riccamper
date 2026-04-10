@@ -5,8 +5,11 @@
 
 ### Curriculum Vitae (CV) - April 9th, 2026
 
-#### PhD Student in Computer Science  
-###### Mentored by Prof. M. Brambilla. 
+#### PhD Student in Information Technology
+`AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `Spectral Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning` 
+
+Mentored by Prof. M. Brambilla. 
+
 Politecnico di Milano, DEIB, Italy  
 riccardo (dot) campi (at) polimi (dot) it  
 [Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it) • [GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
@@ -129,7 +132,7 @@ _* indicates equal attribution among the marked authors._
 
   - 🧩 **Sparse and Interpretable Architectures**: Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
 
-  - 📉 **FFT-based Anomaly and Drift Detection**: Analyzing FFT-based, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
+  - 📉 **FFT-based Anomaly and Drift Detection**: Analyzing spectral, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
 
 - 📊 **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
 
@@ -368,7 +371,7 @@ _* indicates equal attribution among the marked authors._
   
 ## 🧠 Topics of Expertise
 
-`AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `FFT Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning`
+`AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `Spectral Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning`
 
 </div>
 
