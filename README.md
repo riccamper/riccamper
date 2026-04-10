@@ -298,13 +298,31 @@ _* indicates equal attribution among the marked authors._
 
 ### 🎓 Master's Thesis Co-Supervisor
 
+All these are supervised by Prof M. Brambilla.
+
 <div align="left">
 
-- **Explainable AI and Mechanistic Interpretability**: Giacomo Astolfi, Sara Cavallini, Alessandro Cogollo, Daniele Di Santi, Tommaso Giordano, Martina Maiorana, Sara Merengo, Pierluigi Porri, Giovanni Visi.
+- **Explainable AI and Mechanistic Interpretability**:
+  - Giacomo Astolfi: "A closer look at text-to-image generation for concept-based explainability"
+  - Sara Cavallini: ongoing
+  - Alessandro Cogollo: ongoing
+  - Daniele Di Santi: "Concept-based explanations for image classifiers using textual prompts"
+  - Tommaso Giordano: "Discovering sparse concept graphs for mechanistic interpretability in vision transformers"
+  - Martina Maiorana: ongoing
+  - Sara Merengo: "Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models"
+  - Pierluigi Porri: "Addressing scale-invariance and missing context in concept-based explainability for CNNs"
+  - Giovanni Visi, ongoing
 
-- **Knowledge Management, KGs, and RAG**: Matteo Angelini, Michele Bersani, Alfredo Ceci, Davide Morelli, Martina Riva, Zhenzhen Shan.
+- **Knowledge Management, KGs, and RAG**:
+  - Matteo Angelini: "Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain"
+  - Michele Bersani: "A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs"
+  - Alfredo Ceci: "Property Graph RAG: An LLM-driven Approach"
+  - Davide Morelli: "MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs"
+  - Martina Riva: "LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References"
+  - Zhenzhen Shan: ongoing
 
-- **Biomedical AI**: Alessia Marino.
+- **Biomedical AI**:
+  - Alessia Marino: "Modeling HCPAP therapy outcome prediction in ARDS patients via large language models"
 
 </div>
 
