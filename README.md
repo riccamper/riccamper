@@ -1,25 +1,89 @@
-<div align="center"> 
+<!--<div align="center">-->
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
 # Riccardo Campi
 
-### Second-Year PhD Student in Computer Science
+### Curriculum Vitae (CV) - 2026-04-09
 
+#### PhD Student in Computer Science  
 Politecnico di Milano, DEIB, Italy  
 riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it)
 <br>[GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
 
-> **“Designing interpretable AI systems that deliver reliable reasoning, uncover hidden concepts, and enable actionable decision‑making.”**
+> *Designing interpretable AI systems that deliver reliable reasoning, uncover hidden concepts, and enable actionable decision‑making.*
 
 </div>
 
 ---
 
-## 🎓 Academic Background
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+## 🎓 Education
+
+<div align="left">
+
+### 🏛️ Academic Degrees
 
 | Year | Degree | Institution |
 |---|---|---|
-| 2024-present | PhD in Computer Science | Politecnico di Milano |
-| 2020 | MSc in Computer Science and Engineering | Politecnico di Milano |
+| 2024 - present | PhD in Computer Science | Politecnico di Milano, Milan - IT |
+| 2020 - 2023 | MSc in Computer Science and Engineering | Politecnico di Milano, Milan - IT |
+| 2017 - 2020 | BSc in Computer Science and Engineering | Politecnico di Milano, Como - IT |
+| 2012 - 2017 | Scientific High School Diploma | Liceo Scientifico "G. Galilei", Tarquinia - IT |
+
+### 📜 Master's Thesis
+
+**Title:** *Machine learning-based forecast of Helmet-CPAP therapy failure in acute distress respiratory syndrome patients*  
+**Supervisor:** Prof. M. Masseroli  
+**TL;DR:** After a full process of data gathering, preprocessing, and cleaning performed on EMR data from an Vimercate Hospital (IT), a Machine Learning system predicts H‑CPAP therapy failure in ARDS patients. An SVM model reaches 92.7% accuracy, and SHAP provides interpretability, highlighting PaO₂/FiO₂, CRP, O₂ saturation, heart rate, respiratory rate, WBC, creatinine, and coagulation as key contributors to the model’s decisions.
+
+### 📘 Selected Coursework
+
+**Artificial Intelligence:** Artificial NN and Deep Learning, Uncertainty in AI, Streaming Data Analytics.  
+**Computer Science:** Software Eng. 2, DBs 2, Distributed Sys., Adv. Comp. Arch., Formal Langs. & Compilers.  
+**Computer Security:** Computer Security, Digital Forensics and Cybercrime.  
+**Other:** Computer Graphics, Mobile Applications Development.  
+
+</div>
+
+</div>
+
+---
+
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+## 📚 Publications
+
+<div align="left">
+
+### 🎙️ Conference Papers
+
+- __G. Astolfi*, M. Bianchi*, R. Campi*__, A. De Santis and M. Brambilla, "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**," accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)*, Denver, CO, USA, 2026.
+- __M. Bianchi*, R. Campi*, A. De Santis*, S. Merengo*__ and M. Brambilla, "**Activation-Based Concept Extraction for Explainability in Image Classification**," accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Denver, CO, USA, 2026.
+- __R. Campi__, S. Borrego, A. De Santis, M. Bianchi, A. Tocchetti and M. Brambilla, "**[Towards Synthetic Concept Activation Vectors via Generative Models](https://doi.org/10.1109/CVPRW67362.2025.00256)**," *2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Nashville, TN, USA, 2025, pp 2711-2719.
+- __R. Campi__, N.O. Pinciroli Vago, M. Giudici, P.B. Rodriguez‑Guisado, M. Brambilla and P. Fraternali, "**[A Graph-Based RAG for Energy Efficiency Question Answering](https://doi.org/10.1007/978-3-031-97207-2_4)**," *2025 International Conference on Web Engineering (ICWE), Lecture Notes in Computer Science*, vol 15749, Springer, Cham, 2025.
+
+### 📰 Journal Articles
+
+- __R. Campi__, A. De Santis, P. Colombo, P. Scarpazza and M. Masseroli, "**[Foundational approaches to post-hoc explainability for image classification](https://doi.org/10.1016/j.cmpb.2024.108574)**," *Computer Methods and Programs in Biomedicine*, vol. 260, 2025, 108574, ISSN 0169-2607.
+- __R. Campi__, M. Giudici, N. O. Pinciroli Vago, M. Brambilla and P. Fraternali, "**[Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency](https://doi.org/10.1609/aaaiss.v5i1.35554)**," *Proceedings of the2025 AAAI Spring Symposium Series*, vol. 5, no. 1, pp. 52-55, May 2025.
+
+### 📖 Book Chapters
+
+- __A. De Santis*, R. Campi*, M. Bianchi*__, A. Tocchetti and M. Brambilla, "**[Foundational approaches to post-hoc explainability for image classification](https://doi.org/10.1016/B978-0-44-340553-2.00008-3)**," *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 23-54, ISBN 9780443405532.
+- A. Tocchetti, __M. Bianchi*, R. Campi*, A. De Santis*__ and M. Brambilla, "**[On the principles and effectiveness of gamification in bidirectional artificial intelligence and explainable AI](https://doi.org/10.1016/B978-0-44-340553-2.00012-5)**," *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 135-160, ISBN 9780443405532.
+
+### 🧾 Preprints
+
+*All preprints listed below are currently under review.*
+
+- __R. Campi__, N. O. Pinciroli Vago, M. Giudici, M. Brambilla and P. Fraternali, "**[TCAV Enhancement with Magnitude-Aware Attribution and Activation Visualization](https://arxiv.org/abs/2604.12345)**," *arXiv:2604.12345*, 2026.
+- A. De Santis, __R. Campi__, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://arxiv.org/abs/2411.05698)**," *arXiv:2411.05698*, 2025.
+- __R. Campi__, M. Bianchi*, F. P. Panaccione*, C. Bonacina, A. Guerrieri, M. Piluso, P. Scarpazza and M. Brambilla, "**H-CPAP Dataset: A Clinical Dataset of COVID-19 and Non-COVID Pneumonia Patients with Respiratory Failure Treated with Helmet Continuous Positive Airway Pressure**," 2026.
+
+</div>
+
+</div>
 
 ---
 
