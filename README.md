@@ -3,11 +3,9 @@
 
 # Riccardo Campi
 
-### Curriculum Vitae (CV) - April 9th, 2026
+### Online Curriculum Vitae (CV) - April 9th, 2026
 
 #### PhD Student in Information Technology
-`AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `Spectral Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning` 
-
 Mentored by Prof. M. Brambilla. 
 
 Politecnico di Milano, DEIB, Italy  
