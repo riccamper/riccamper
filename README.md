@@ -70,9 +70,9 @@ riccardo (dot) campi (at) polimi (dot) it
 
 - <u>R. Campi</u>, N.O. Pinciroli Vago, M. Giudici, P.B. Rodriguez‑Guisado, M. Brambilla and P. Fraternali, "**[A Graph-Based RAG for Energy Efficiency Question Answering](https://doi.org/10.1007/978-3-031-97207-2_4)**", *2025 International Conference on Web Engineering (ICWE), Lecture Notes in Computer Science*, vol 15749, Springer, Cham, 2025.
 
-_* indicates equal attribution among the marked authors._
-
 </div>
+
+_* indicates equal attribution among the marked authors._
 
 ### 📰 Journal Articles
 
@@ -92,9 +92,9 @@ _* indicates equal attribution among the marked authors._
 
 - A. Tocchetti, <u>M. Bianchi*, R. Campi*</u>, A. De Santis* and M. Brambilla, "**[On the principles and effectiveness of gamification in bidirectional artificial intelligence and explainable AI](https://doi.org/10.1016/B978-0-44-340553-2.00012-5)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 135-160, ISBN 9780443405532.
 
-_* indicates equal attribution among the marked authors._
-
 </div>
+
+_* indicates equal attribution among the marked authors._
 
 ### 🧾 Preprints
 
