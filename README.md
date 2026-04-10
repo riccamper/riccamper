@@ -392,8 +392,8 @@ All these are supervised by Prof M. Brambilla.
 
 | Year | Role | Organization | Description |
 |---|---|---|---|
-| 2023 - 2024 | Research Fellow | Politecnico di Milano | Conducting research in Explainable AI,<br>Mechanistic Interpretability, Knowledge Graphs,<br>RAG, and Biomedical AI; teaching courses;<br>supervising theses; collaborating on research projects. |
-| 2016 - 2020 | Webmaster & Social Media Manager | Optical Expert S.r.l. | Managed the company website, social media <br>accounts, and online marketing efforts. |
+| 2023 - 2024 | Research Fellow | Politecnico di Milano | Conducting research in Explainable AI, Mechanistic Interpretability, Knowledge Graphs, RAG, and Biomedical AI; teaching courses; supervising theses; collaborating on research projects. |
+| 2016 - 2020 | Webmaster & Social Media Manager | Optical Expert S.r.l. | Managed the company website, social media accounts, and online marketing efforts. |
 
 <br>
 
@@ -401,9 +401,9 @@ All these are supervised by Prof M. Brambilla.
 
 | Year | Role | Organization | Description |
 |---|---|---|---|
-| 2023 - 2024 | Ambulance Transport Operator | Croce d'Oro Milano ONLUS | Provided emergency transport<br>services for patients in need. |
-| July - August 2019 | Background Actor | Lotus Production S.r.l. | Participated as a background actor in the film<br>"Gli anni più belli" directed by Gabriele Muccino. |
-| 2016 - 2017 | Football Referee | AIA Civitavecchia, FIGC | Officiated football matches for the<br>U14 PROVINCIAL C11 MALE category. |
+| 2023 - 2024 | Ambulance Transport Operator | Croce d'Oro Milano ONLUS | Provided emergency transport services for patients in need. |
+| July - August 2019 | Background Actor | Lotus Production S.r.l. | Participated as a background actor in the film "Gli anni più belli" directed by Gabriele Muccino. |
+| 2016 - 2017 | Football Referee | AIA Civitavecchia, FIGC | Officiated football matches for the U14 PROVINCIAL C11 MALE category. |
 
 </div>
 
