@@ -3,7 +3,7 @@
 
 # Riccardo Campi
 
-### Online Curriculum Vitae (CV) - April 9th, 2026
+### Online Curriculum Vitae - April 9th, 2026
 
 #### PhD Student in Information Technology
 Mentored by Prof. M. Brambilla. 
@@ -33,6 +33,8 @@ riccardo (dot) campi (at) polimi (dot) it
 | 2017 - 2020 | BSc in "Ingegneria Informatica" | Politecnico di Milano, Milan - IT |
 | 2012 - 2017 | Scientific High School Diploma | Liceo Scientifico "G. Galilei", Tarquinia - IT |
 
+<br>
+
 ### Master's Thesis
 
 <div align="left">
@@ -42,6 +44,8 @@ riccardo (dot) campi (at) polimi (dot) it
 **Abstract:** This study uses machine learning to predict the failure of Helmet Continuous Positive Airway Pressure (H-CPAP) therapy in patients with Acute Respiratory Distress Syndrome (ARDS). Data from Vimercate Hospital in Italy is used to create a comprehensive pipeline, including data gathering, preprocessing, and cleaning. The best model achieves 92.7% accuracy. Key clinical features influencing predictions, identified through Shapley additive explanations, include oxygen levels, C-reactive protein, heart rate, respiratory rate, and others. The results suggest that interpretable machine learning can aid early clinical decision-making for ARDS patients undergoing this therapy.
 
 </div>
+
+<br>
 
 ### Selected Coursework
 
@@ -78,6 +82,8 @@ riccardo (dot) campi (at) polimi (dot) it
 
 _* indicates equal attribution among the marked authors._
 
+<br>
+
 ### Journal Articles
 
 <div align="left">
@@ -87,6 +93,8 @@ _* indicates equal attribution among the marked authors._
 - <u>R. Campi</u>, M. Giudici, N. O. Pinciroli Vago, M. Brambilla and P. Fraternali, "**[Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency](https://doi.org/10.1609/aaaiss.v5i1.35554)**", *Proceedings of the2025 AAAI Spring Symposium Series*, vol. 5, no. 1, pp. 52-55, May 2025.
 
 </div>
+
+<br>
 
 ### Book Chapters
 
@@ -99,6 +107,8 @@ _* indicates equal attribution among the marked authors._
 </div>
 
 _* indicates equal attribution among the marked authors._
+
+<br>
 
 ### Preprints
 
@@ -168,6 +178,8 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
+<br>
+
 ### Seminars, Talks, and Workshops
 
 <div align="left">
@@ -180,6 +192,8 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
+<br>
+
 ### Projects
 
 <div align="left">
@@ -187,6 +201,8 @@ _* indicates equal attribution among the marked authors._
 - **Energenius Project**: Task contributor in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
 
 </div>
+
+<br>
 
 ### Research Community Service
 
@@ -221,6 +237,8 @@ _* indicates equal attribution among the marked authors._
 - **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems**, San Francisco, CA, USA, 2025.
 
 </div>
+
+<br>
 
 ### Schools
 
@@ -276,46 +294,51 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
+<br>
+
 ### Master's Thesis Co-Supervisor
 
 All these are supervised by Prof M. Brambilla.
 
 <div align="left">
 
-- **Explainable AI and Mechanistic Interpretability**:
-  - Giacomo Astolfi: "**A closer look at text-to-image generation for concept-based explainability**".
+#### Explainable AI and Mechanistic Interpretability
 
-  - Sara Cavallini: ongoing
+- Giacomo Astolfi: "**A closer look at text-to-image generation for concept-based explainability**".
 
-  - Alessandro Cogollo: ongoing
+- Sara Cavallini: ongoing
 
-  - Daniele Di Santi: "**Concept-based explanations for image classifiers using textual prompts**"
+- Alessandro Cogollo: ongoing
 
-  - Tommaso Giordano: "**Discovering sparse concept graphs for mechanistic interpretability in vision transformers**"
+- Daniele Di Santi: "**Concept-based explanations for image classifiers using textual prompts**"
 
-  - Martina Maiorana: ongoing
+- Tommaso Giordano: "**Discovering sparse concept graphs for mechanistic interpretability in vision transformers**"
 
-  - Sara Merengo: "**Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models**"
+- Martina Maiorana: ongoing
 
-  - Pierluigi Porri: "**Addressing scale-invariance and missing context in concept-based explainability for CNNs**"
+- Sara Merengo: "**Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models**"
 
-  - Giovanni Visi, ongoing
+- Pierluigi Porri: "**Addressing scale-invariance and missing context in concept-based explainability for CNNs**"
 
-- **Knowledge Management, KGs, and RAG**:
-  - Matteo Angelini: "**Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain**"
+- Giovanni Visi, ongoing
 
-  - Michele Bersani: "**A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs**"
+#### Knowledge Management, KGs, and RAG
+  
+- Matteo Angelini: "**Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain**"
 
-  - Alfredo Ceci: "**Property Graph RAG: An LLM-driven Approach**"
+- Michele Bersani: "**A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs**"
 
-  - Davide Morelli: "**MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs**"
+- Alfredo Ceci: "**Property Graph RAG: An LLM-driven Approach**"
 
-  - Martina Riva: "**LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References**"
+- Davide Morelli: "**MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs**"
 
-  - Zhenzhen Shan: ongoing
+- Martina Riva: "**LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References**"
 
-- **Biomedical AI**:
-  - Alessia Marino: "**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**"
+- Zhenzhen Shan: ongoing
+
+#### Biomedical AI
+
+- Alessia Marino: "**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**"
 
 </div>
 
@@ -345,6 +368,8 @@ All these are supervised by Prof M. Brambilla.
 
 </div>
 
+<br>
+
 ### Industry Teaching
 
 <div align="left">
@@ -371,6 +396,8 @@ All these are supervised by Prof M. Brambilla.
 |---|---|---|---|
 | 2023 - 2024 | Research Fellow | Politecnico di Milano | Conducting research in Explainable AI, Mechanistic Interpretability, Knowledge Graphs, RAG, and Biomedical AI; teaching courses; supervising theses; collaborating on research projects. |
 | 2016 - 2020 | Webmaster & Social Media Manager | Optical Expert S.r.l. | Managed the company website, social media accounts, and online marketing efforts. |
+
+<br>
 
 ### Service & Volunteering
 
