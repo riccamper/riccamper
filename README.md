@@ -17,7 +17,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 ---
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;"> 
 
 ## 🎓 Education
 
