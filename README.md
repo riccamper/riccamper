@@ -304,41 +304,41 @@ All these are supervised by Prof M. Brambilla.
 
 #### Explainable AI and Mechanistic Interpretability
 
-- Giacomo Astolfi: "**A closer look at text-to-image generation for concept-based explainability**".
+- Giacomo Astolfi: "**A closer look at text-to-image generation for concept-based explainability**", 2025.
 
-- Sara Cavallini: ongoing
+- Sara Cavallini: ongoing.
 
-- Alessandro Cogollo: ongoing
+- Alessandro Cogollo: ongoing.
 
-- Daniele Di Santi: "**Concept-based explanations for image classifiers using textual prompts**"
+- Daniele Di Santi: "**Concept-based explanations for image classifiers using textual prompts**", 2025.
 
-- Tommaso Giordano: "**Discovering sparse concept graphs for mechanistic interpretability in vision transformers**"
+- Tommaso Giordano: "**Discovering sparse concept graphs for mechanistic interpretability in vision transformers**", 2025.
 
-- Martina Maiorana: ongoing
+- Martina Maiorana: ongoing.
 
-- Sara Merengo: "**Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models**"
+- Sara Merengo: "**Activation-Based Concept Extraction for Post-hoc Explainability of CNN Models**", 2024.
 
-- Pierluigi Porri: "**Addressing scale-invariance and missing context in concept-based explainability for CNNs**"
+- Pierluigi Porri: "**Addressing scale-invariance and missing context in concept-based explainability for CNNs**", 2025.
 
-- Giovanni Visi, ongoing
+- Giovanni Visi, ongoing.
 
 #### Knowledge Management, KGs, and RAG
   
-- Matteo Angelini: "**Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain**"
+- Matteo Angelini: "**Benchmarking Commercial and Ad-Hoc RAG Implementations in the Energy Domain**", 2025.
 
-- Michele Bersani: "**A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs**"
+- Michele Bersani: "**A Graph-RAG Architecture for Retrieval of Tax Legislation and Administrative Circulars based on Domain Ontology and Citation graphs**", 2026.
 
-- Alfredo Ceci: "**Property Graph RAG: An LLM-driven Approach**"
+- Alfredo Ceci: "**Property Graph RAG: An LLM-driven Approach**", 2025.
 
-- Davide Morelli: "**MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs**"
+- Davide Morelli: "**MathRAG: An Agentic Question Answering Architecture for Mathematical Problems based on Structured Knowledge Graphs**", 2026.
 
-- Martina Riva: "**LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References**"
+- Martina Riva: "**LLM-based Knowledge Graph Construction for the Legal Sector: Modeling Semantics, Document Structure, and Legal References**", 2026.
 
-- Zhenzhen Shan: ongoing
+- Zhenzhen Shan: ongoing.
 
 #### Biomedical AI
 
-- Alessia Marino: "**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**"
+- Alessia Marino: "**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**", 2025.
 
 </div>
 
@@ -415,15 +415,11 @@ All these are supervised by Prof M. Brambilla.
 
 ## Language Certifications
 
-<div align="left">
-
-- **Italian**: Native proficiency
-
-- **Spanish**: Fluent (family background)
-
-- **English**: Professional working proficiency (TOEIC certified)
-
-</div>
+| Language | Level |
+|---|---|
+| **Italian** | Native proficiency |
+| **Spanish** | Fluent (family background) |
+| **English** | Professional working proficiency (TOEIC certified) |
 
 </div>
 
