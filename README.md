@@ -300,9 +300,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Explainable AI and Mechanistic Interpretability**: Giacomo Astolfi, Sara Cavallini, Alessandro Cogollo, Daniele Di Santi, Tommaso Giordano, Sara Merengo, Pierluigi Porri.
+- **Explainable AI and Mechanistic Interpretability**: Giacomo Astolfi, Sara Cavallini, Alessandro Cogollo, Daniele Di Santi, Tommaso Giordano, Martina Maiorana, Sara Merengo, Pierluigi Porri, Giovanni Visi.
 
-- **Knowledge Management, KGs, and RAG**: Matteo Angelini, Michele Bersani, Alfredo Ceci, Davide Morelli, Francesco Pellegrini, Martina Riva, Zhenzhen Shan.
+- **Knowledge Management, KGs, and RAG**: Matteo Angelini, Michele Bersani, Alfredo Ceci, Davide Morelli, Martina Riva, Zhenzhen Shan.
 
 - **Biomedical AI**: Alessia Marino.
 
