@@ -198,7 +198,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🧑‍⚖️ Research Community Service
+### ✏ Research Community Service
 
 <div align="left">
 
@@ -280,7 +280,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🧑‍🎓 Student Supervision
+### 👨‍🎓 Student Supervision
 
 <div align="left">
 
