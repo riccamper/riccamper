@@ -98,7 +98,7 @@ _* indicates equal attribution among the marked authors._
 
 ### 🧾 Preprints
 
-*All preprints listed below are currently under review.*
+<!--*All preprints listed below are currently under review.*-->
 
 <div align="left">
 
@@ -106,7 +106,7 @@ _* indicates equal attribution among the marked authors._
 
 - A. De Santis, <u>R. Campi</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://arxiv.org/abs/2411.05698)**", *arXiv:2411.05698*, 2025.
 
-- <u>R. Campi</u>, M. Bianchi*, F. P. Panaccione*, C. Bonacina, A. Guerrieri, M. Piluso, P. Scarpazza and M. Brambilla, "**H-CPAP Dataset: A Clinical Dataset of COVID-19 and Non-COVID Pneumonia Patients with Respiratory Failure Treated with Helmet Continuous Positive Airway Pressure**", 2026.
+<!--- <u>R. Campi</u>, M. Bianchi*, F. P. Panaccione*, C. Bonacina, A. Guerrieri, M. Piluso, P. Scarpazza and M. Brambilla, "**H-CPAP Dataset: A Clinical Dataset of COVID-19 and Non-COVID Pneumonia Patients with Respiratory Failure Treated with Helmet Continuous Positive Airway Pressure**", 2026.-->
 
 </div>
 
