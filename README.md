@@ -35,7 +35,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 **Title:** *Machine learning-based forecast of Helmet-CPAP therapy failure in acute distress respiratory syndrome patients*  
 **Supervisor:** Prof. M. Masseroli  
-**TL;DR:** After a full process of data gathering, preprocessing, and cleaning performed on Electronic Medical Records (EMRs) data from an Vimercate Hospital (IT), a Machine Learning system predicts Helmet‑Continuous Positive Airway Pressure therapy failure in ARDS patients. An SVM model reaches 92.7% accuracy, and SHAP provides interpretability, highlighting PaO₂/FiO₂, CRP, O₂ saturation, heart rate, respiratory rate, WBC, creatinine, and coagulation as key contributors to the model’s decisions.
+**TL;DR:** This work presents a machine learning approach to predict failure of helmet continuous positive airway pressure therapy in patients with acute respiratory distress syndrome. Electronic medical records collected at Vimercate Hospital (Italy) are used to develop a complete pipeline including data gathering, preprocessing, and cleaning. Several models are evaluated, with the best achieving an accuracy of 92.7%. Model interpretability is assessed using Shapley additive explanations, identifying key clinical features influencing predictions, including the ratio between arterial oxygen partial pressure and inspired oxygen fraction, C-reactive protein levels, oxygen saturation, heart rate, respiratory rate, white blood cell count, creatinine levels, and coagulation parameters. These results highlight the potential of machine learning to support early clinical decision-making in patients undergoing this therapy.
 
 </div>
 
