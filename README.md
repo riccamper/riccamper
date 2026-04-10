@@ -220,13 +220,13 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **2024 European Conference on Computer Vision (ECCV 2024)** <br>Milan, Italy.
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA, 2026 (upcoming).
 
-- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA.
+- **2025 International Conference on Web Engineering (ICWE 2025)** <br>Delft, Netherlands, 2025.
 
-- **2025 International Conference on Web Engineering (ICWE 2025)** <br>Delft, Netherlands.
+- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems** <br>San Francisco, CA, USA, 2025.
 
-- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems** <br>San Francisco, CA, USA.
+- **2024 European Conference on Computer Vision (ECCV 2024)** <br>Milan, Italy, 2024.
 
 </div>
 
