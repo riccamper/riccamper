@@ -144,30 +144,6 @@ _* indicates equal attribution among the marked authors._
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## Collaborations
-
-<div align="left">
-
-- **MIT Collaboration for XAI**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
-
-- **XJTU–POLIMI Joint School**: Collaboration for teaching activities in the field of Data Science.
-
-- **Vimercate Hospital, Italy**: Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
-
-- **SUPSI University, Switzerland**: Collaboration for the development of a graph-based RAG system for energy efficiency.
-
-- **Università di Pisa, Italy**: Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
-
-- **Polimi Data Scientists**: Collaboration with "Polimi Data Scientists" MSc students on various research projects.
-
-</div>
-
-</div>
-
-<br><br>
-
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
-
 ## Academic Presentations and Contributions
 
 ### Conference Presentations and Posters
@@ -253,6 +229,30 @@ _* indicates equal attribution among the marked authors._
 - **Complex Networks: Theory, Methods, and Applications (2024)**, Politecnico di Milano, Como, Italy, 2024.
 
 - **2025 International Semantic Web Research Summer School (ISWS 2025)**, Bertinoro, Italy, 2025.
+
+</div>
+
+</div>
+
+<br><br>
+
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+## Collaborations
+
+<div align="left">
+
+- **MIT Collaboration for XAI**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
+
+- **XJTU–POLIMI Joint School**: Collaboration for teaching activities in the field of Data Science.
+
+- **Vimercate Hospital, Italy**: Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
+
+- **SUPSI University, Switzerland**: Collaboration for the development of a graph-based RAG system for energy efficiency.
+
+- **Università di Pisa, Italy**: Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
+
+- **Polimi Data Scientists**: Collaboration with "Polimi Data Scientists" MSc students on various research projects.
 
 </div>
 
