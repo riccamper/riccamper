@@ -1,5 +1,5 @@
 <!--<div align="center">-->
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; border: 2px solid #333; border-radius: 10px; background-color: #00000010;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
 # Riccardo Campi
 
