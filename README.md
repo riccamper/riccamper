@@ -6,6 +6,7 @@
 ### Curriculum Vitae (CV) - April 9th, 2026
 
 #### PhD Student in Computer Science  
+###### Mentored by Prof. M. Brambilla. 
 Politecnico di Milano, DEIB, Italy  
 riccardo (dot) campi (at) polimi (dot) it  
 [Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it) • [GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
@@ -35,7 +36,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 **Title:** *Machine learning-based forecast of Helmet-CPAP therapy failure in acute distress respiratory syndrome patients*  
 **Supervisor:** Prof. M. Masseroli  
-**Abstract:** This work presents a machine learning approach to predict failure of helmet continuous positive airway pressure therapy in patients with acute respiratory distress syndrome. Electronic medical records collected at Vimercate Hospital (Italy) are used to develop a complete pipeline including data gathering, preprocessing, and cleaning. Several models are evaluated, with the best achieving an accuracy of 92.7%. Model interpretability is assessed using Shapley additive explanations, identifying key clinical features influencing predictions, including the ratio between arterial oxygen partial pressure and inspired oxygen fraction, C-reactive protein levels, oxygen saturation, heart rate, respiratory rate, white blood cell count, creatinine levels, and coagulation parameters. These results highlight the potential of machine learning to support early clinical decision-making in patients undergoing this therapy.
+**Abstract:** This work presents a machine learning approach to predict failure of helmet continuous positive airway pressure therapy in patients with acute respiratory distress syndrome. Electronic medical records collected at Vimercate Hospital (Italy) are used to develop a complete pipeline including data gathering, preprocessing, and cleaning. Several models are evaluated, with the best achieving an accuracy of 92.7%. Model interpretability is assessed using Shapley additive explanations, identifying key clinical features influencing predictions, including the ratio between arterial oxygen partial pressure and inspired oxygen fraction, C-reactive protein levels, oxygen saturation, heart rate, respiratory rate, white blood cell count, creatinine levels, and coagulation parameters. These results highlight the potential of interpretable machine learning to support early clinical decision-making in patients undergoing this therapy.
 
 </div>
 
