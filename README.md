@@ -1,5 +1,5 @@
 <!--<div align="center">-->
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 600px; margin: auto;">
 
 # Riccardo Campi
 
@@ -20,7 +20,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;"> 
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;"> 
 
 ## Education
 
@@ -62,7 +62,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Publications
 
@@ -128,7 +128,7 @@ _* indicates equal attribution among the marked authors._
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Research Topics
 
@@ -152,7 +152,7 @@ _* indicates equal attribution among the marked authors._
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Academic Contributions
 
@@ -218,7 +218,7 @@ _* indicates equal attribution among the marked authors._
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Attendance and participation
 
@@ -254,7 +254,7 @@ _* indicates equal attribution among the marked authors._
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Collaborations
 
@@ -278,7 +278,7 @@ _* indicates equal attribution among the marked authors._
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Mentoring
 
@@ -346,7 +346,7 @@ All these are supervised by Prof M. Brambilla.
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Teaching
 
@@ -386,7 +386,7 @@ All these are supervised by Prof M. Brambilla.
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Work Experience
 
@@ -411,7 +411,7 @@ All these are supervised by Prof M. Brambilla.
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Language Certifications
 
@@ -425,7 +425,7 @@ All these are supervised by Prof M. Brambilla.
 
 <br><br>
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 ## Technical Skills
 
