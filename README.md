@@ -359,7 +359,13 @@ _* indicates equal attribution among the marked authors._
 | **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scipy |
 | **Tools** | Jupyter, Docker, Git, LaTeX, draw.io, VS Code, Linux/Unix environments |
 
-### 🧠 Topics of Expertise
+</div>
+
+---
+
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+  
+## 🧠 Topics of Expertise
 
 `AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `FFT Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning`
 
