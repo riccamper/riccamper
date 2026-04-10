@@ -24,9 +24,9 @@ riccardo (dot) campi (at) polimi (dot) it
 
 | Year | Degree | Institution |
 |---|---|---|
-| 2024 - present | PhD in Computer Science | Politecnico di Milano, Milan - IT |
+| 2024 - present | Ongoing PhD in Information Engineering | Politecnico di Milano, Milan - IT |
 | 2020 - 2023 | MSc in Computer Science and Engineering | Politecnico di Milano, Milan - IT |
-| 2017 - 2020 | BSc in Computer Science and Engineering | Politecnico di Milano, Como - IT |
+| 2017 - 2020 | BSc in Computer Science and Engineering | Politecnico di Milano, Milan - IT |
 | 2012 - 2017 | Scientific High School Diploma | Liceo Scientifico "G. Galilei", Tarquinia - IT |
 
 ### 📜 Master's Thesis
@@ -35,7 +35,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 **Title:** *Machine learning-based forecast of Helmet-CPAP therapy failure in acute distress respiratory syndrome patients*  
 **Supervisor:** Prof. M. Masseroli  
-**TL;DR:** After a full process of data gathering, preprocessing, and cleaning performed on EMR data from an Vimercate Hospital (IT), a Machine Learning system predicts H‑CPAP therapy failure in ARDS patients. An SVM model reaches 92.7% accuracy, and SHAP provides interpretability, highlighting PaO₂/FiO₂, CRP, O₂ saturation, heart rate, respiratory rate, WBC, creatinine, and coagulation as key contributors to the model’s decisions.
+**TL;DR:** After a full process of data gathering, preprocessing, and cleaning performed on Electronic Medical Records (EMRs) data from an Vimercate Hospital (IT), a Machine Learning system predicts Helmet‑Continuous Positive Airway Pressure therapy failure in ARDS patients. An SVM model reaches 92.7% accuracy, and SHAP provides interpretability, highlighting PaO₂/FiO₂, CRP, O₂ saturation, heart rate, respiratory rate, WBC, creatinine, and coagulation as key contributors to the model’s decisions.
 
 </div>
 
@@ -60,8 +60,6 @@ riccardo (dot) campi (at) polimi (dot) it
 
 ### 🎙️ Conference Papers
 
-_* indicates equal attribution among the marked authors._
-
 <div align="left">
 
 - <u>G. Astolfi*, M. Bianchi*, R. Campi*</u>, A. De Santis and M. Brambilla, "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)*, Denver, CO, USA, 2026.
@@ -71,6 +69,8 @@ _* indicates equal attribution among the marked authors._
 - <u>R. Campi</u>, S. Borrego, A. De Santis, M. Bianchi, A. Tocchetti and M. Brambilla, "**[Towards Synthetic Concept Activation Vectors via Generative Models](https://doi.org/10.1109/CVPRW67362.2025.00256)**", *2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Nashville, TN, USA, 2025, pp 2711-2719.
 
 - <u>R. Campi</u>, N.O. Pinciroli Vago, M. Giudici, P.B. Rodriguez‑Guisado, M. Brambilla and P. Fraternali, "**[A Graph-Based RAG for Energy Efficiency Question Answering](https://doi.org/10.1007/978-3-031-97207-2_4)**", *2025 International Conference on Web Engineering (ICWE), Lecture Notes in Computer Science*, vol 15749, Springer, Cham, 2025.
+
+_* indicates equal attribution among the marked authors._
 
 </div>
 
@@ -86,13 +86,13 @@ _* indicates equal attribution among the marked authors._
 
 ### 📖 Book Chapters
 
-_* indicates equal attribution among the marked authors._
-
 <div align="left">
 
 - <u>A. De Santis*, R. Campi*</u>, M. Bianchi*, A. Tocchetti and M. Brambilla, "**[Foundational approaches to post-hoc explainability for image classification](https://doi.org/10.1016/B978-0-44-340553-2.00008-3)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 23-54, ISBN 9780443405532.
 
 - A. Tocchetti, <u>M. Bianchi*, R. Campi*</u>, A. De Santis* and M. Brambilla, "**[On the principles and effectiveness of gamification in bidirectional artificial intelligence and explainable AI](https://doi.org/10.1016/B978-0-44-340553-2.00012-5)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 135-160, ISBN 9780443405532.
+
+_* indicates equal attribution among the marked authors._
 
 </div>
 
@@ -142,9 +142,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **CVPR(F) 2026**: Upcoming poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", Denver, CO, USA, 2026.
+- **CVPR(F) 2026**: Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", Denver, CO, USA, 2026 (upcoming).
 
-- **CVPR(W) 2026**: Upcoming poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", Denver, CO, USA, 2026.
+- **CVPR(W) 2026**: Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", Denver, CO, USA, 2026 (upcoming).
 
 - **CVPR(W) 2025**: Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", Nashville, TN, USA, 2025.
 
@@ -174,7 +174,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **MIT Collaboration (ROCCA Project)**: Collaboration with MIT researchers on synthetic concept generation for XAI.
+- **MIT Collaboration**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
 
 - **XJTU–POLIMI Joint School**: Collaboration for teaching and research activities in the field of Data Science.
 
@@ -192,7 +192,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Energenius Project**: Task Leader in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
+- **Energenius Project**: Task contributor in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
 
 </div>
 
@@ -284,13 +284,13 @@ _* indicates equal attribution among the marked authors._
 
 - **Web and Data Science Course Projects**: Supervised *Web and Data Science* course projects for MSc students at Politecnico di Milano (2025-2026).
 
-- **MIT Collaboration (ROCCA Project)**: Supervised visiting students from MIT for research projects in synthetic concept generation for XAI (2024-2025).
+- **MIT Collaboration**: Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI. (2024-2025).
 
 - **Polimi Data Scientists**: Supervised "Polimi Data Scientists" MSc students on various research projects, including RAG, KGs, and XAI (2024-2025).
 
 </div>
 
-### 🎓 Master's Thesis Supervisor
+### 🎓 Master's Thesis Co-Supervisor
 
 <div align="left">
 
