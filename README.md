@@ -7,8 +7,8 @@
 
 #### PhD Student in Computer Science  
 Politecnico di Milano, DEIB, Italy  
-riccardo (dot) campi (at) polimi (dot) it • [Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it)
-<br>[GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
+riccardo (dot) campi (at) polimi (dot) it  
+[Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it) • [GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
 
 > *Designing interpretable AI systems that deliver reliable reasoning, uncover hidden concepts, and enable actionable decision‑making.*
 
