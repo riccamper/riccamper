@@ -160,15 +160,15 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **CVPR 2026**: <br>Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA (upcoming).
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**: <br>Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026 (upcoming).
 
-- **CVPR 2025**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA.
+- **2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA, 2025.
 
-- **ICWE 2025**: <br>Oral presentation of "**A Graph-Based RAG for Energy Efficiency Question Answering**", <br>Delft, Netherlands.
+- **2025 International Conference on Web Engineering (ICWE 2025)**: <br>Oral presentation of "**A Graph-Based RAG for Energy Efficiency Question Answering**", <br>Delft, Netherlands, 2025.
 
-- **AAAI Spring Symposium 2025**: <br>Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", <br>Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", <br>San Francisco, CA, USA.
+- **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems**: <br>Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", <br>Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", <br>San Francisco, CA, USA, 2025.
 
-- **ISWS 2025**: <br>Poster presentation on RAG and KGs, <br>Bertinoro, Italy.
+- **2025 International Semantic Web Research Summer School (ISWS 2025)**: <br>Poster presentation on RAG and KGs, <br>Bertinoro, Italy, 2025.
 
 </div>
 
@@ -178,11 +178,11 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Data Science Seminar**: <br>Seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", <br>Politecnico di Milano, Italy, April 9th, 2025.
+- **Data Science Seminar** (April 9th, 2025): <br>Seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", <br>Politecnico di Milano, Italy.
 
-- **Reply S.r.l. Code Challenge "Prompting the Future"**: <br>Judge for the competition as Data Science Lab Representative, <br>Milan, Italy, Nov 30th, 2024.
+- **Reply S.r.l. Code Challenge "Prompting the Future"** (Nov 30th, 2024): <br>Judge for the competition as Data Science Lab Representative, <br>Milan, Italy.
 
-- **BEST Academy Workshop (BEST Milan & Levels Tech)**: <br>Workshop on "Document Intelligence" as Data Science Lab Representative, <br>Milan, Italy, Oct 31st, 2024.
+- **BEST Academy Workshop (BEST Milan & Levels Tech)** (Oct 31st, 2024): <br>Workshop on "Document Intelligence" as Data Science Lab Representative, <br>Milan, Italy.
 
 </div>
 
