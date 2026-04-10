@@ -54,10 +54,6 @@ riccardo (dot) campi (at) polimi (dot) it
 
 </div>
 
-### 🧠 Topics of Expertise
-
-`AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `Spectral Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning`
-
 </div>
 
 ---
