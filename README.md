@@ -18,7 +18,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;"> 
 
@@ -56,7 +56,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
@@ -116,13 +116,11 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## Research & Academic Contribution
-
-### Research Topics
+## Research Topics
 
 <div align="left">
 
@@ -139,6 +137,38 @@ _* indicates equal attribution among the marked authors._
 - **Biomedical AI**: Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
 
 </div>
+
+</div>
+
+<br><br>
+
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+## Collaborations
+
+<div align="left">
+
+- **MIT Collaboration for XAI**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
+
+- **XJTU–POLIMI Joint School**: Collaboration for teaching activities in the field of Data Science.
+
+- **Vimercate Hospital, Italy**: Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
+
+- **SUPSI University, Switzerland**: Collaboration for the development of a graph-based RAG system for energy efficiency.
+
+- **Università di Pisa, Italy**: Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
+
+- **Polimi Data Scientists**: Collaboration with "Polimi Data Scientists" MSc students on various research projects.
+
+</div>
+
+</div>
+
+<br><br>
+
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+## Academic Presentations and Contributions
 
 ### Conference Presentations and Posters
 
@@ -174,24 +204,6 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### Collaborations
-
-<div align="left">
-
-- **MIT Collaboration**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
-
-- **XJTU–POLIMI Joint School**: Collaboration for teaching activities in the field of Data Science.
-
-- **Vimercate Hospital, Italy**: Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
-
-- **SUPSI University, Switzerland**: Collaboration for the development of a graph-based RAG system for energy efficiency.
-
-- **Università di Pisa, Italy**: Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
-
-- **Polimi Data Scientists**: Collaboration with "Polimi Data Scientists" MSc students on various research projects.
-
-</div>
-
 ### Projects
 
 <div align="left">
@@ -212,7 +224,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
@@ -246,41 +258,11 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## Teaching and Mentoring
-
-### Course Instructor
-
-<div align="left">
-
-- __*Data Science* course__ (2025-2026), MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration.
-
-- __*Systems and Methods for Big and Unstructured Data*__ (2025-2026), 5 CFUs, MSc, Politecnico di Milano.
-
-- __*Web and Data Science*__ (2025-2026), 5 CFUs, MSc, Politecnico di Milano.
-
-- __*Prova Finale di Ingegneria del Software*__ (2024-2025), 3 CFUs, BSc, Politecnico di Milano.
-
-- __*Informatica B*__ (2024-2025), 7 CFUs, BSc, Politecnico di Milano.
-
-- __Private tutoring__ for various computer science topics (2024-2025), BSc and MSc.
-
-</div>
-
-### Industry Teaching
-
-<div align="left">
-
-- **ENI S.p.A.**: Held a 4 hours course on Knowledge Management, Knowledge Graphs, and Retrieval Augmented Generation for the employees of ENI, Milan, Italy, November 2025.
-
-- **Keysight Technologies S.r.l.**: Held a 16 hours course on Explainable Artificial Intelligence for the employees of Keysight Technologies, Milan, Italy, February 2025.
-
-- **RCS Media Group S.r.l.**: Held a 4 hours course on Advanced Python Programming for the employees of RCS Media Group, Milan, Italy, July 2024.
-
-</div>
+## Mentoring
 
 ### Student Supervision
 
@@ -288,7 +270,7 @@ _* indicates equal attribution among the marked authors._
 
 - **Web and Data Science Course Projects**: Supervised *Web and Data Science* course projects for MSc students at Politecnico di Milano (2025-2026).
 
-- **MIT Collaboration**: Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI. (2024-2025).
+- **MIT Collaboration for XAI**: Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI. (2024-2025).
 
 - **Polimi Data Scientists**: Supervised "Polimi Data Scientists" MSc students on various research projects, including RAG, KGs, and XAI (2024-2025).
 
@@ -339,7 +321,45 @@ All these are supervised by Prof M. Brambilla.
 
 </div>
 
----
+<br><br>
+
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+
+## Teaching
+
+### Course Instructor
+
+<div align="left">
+
+- __*Data Science* course__ (2025-2026), MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration.
+
+- __*Systems and Methods for Big and Unstructured Data*__ (2025-2026), 5 CFUs, MSc, Politecnico di Milano.
+
+- __*Web and Data Science*__ (2025-2026), 5 CFUs, MSc, Politecnico di Milano.
+
+- __*Prova Finale di Ingegneria del Software*__ (2024-2025), 3 CFUs, BSc, Politecnico di Milano.
+
+- __*Informatica B*__ (2024-2025), 7 CFUs, BSc, Politecnico di Milano.
+
+- __Private tutoring__ for various computer science topics (2024-2025), BSc and MSc.
+
+</div>
+
+### Industry Teaching
+
+<div align="left">
+
+- **ENI S.p.A.**: Held a 4 hours course on Knowledge Management, Knowledge Graphs, and Retrieval Augmented Generation for the employees of ENI, Milan, Italy, November 2025.
+
+- **Keysight Technologies S.r.l.**: Held a 16 hours course on Explainable Artificial Intelligence for the employees of Keysight Technologies, Milan, Italy, February 2025.
+
+- **RCS Media Group S.r.l.**: Held a 4 hours course on Advanced Python Programming for the employees of RCS Media Group, Milan, Italy, July 2024.
+
+</div>
+
+</div>
+
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
@@ -362,7 +382,7 @@ All these are supervised by Prof M. Brambilla.
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
@@ -380,7 +400,7 @@ All these are supervised by Prof M. Brambilla.
 
 </div>
 
----
+<br><br>
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
@@ -397,4 +417,3 @@ All these are supervised by Prof M. Brambilla.
 </div>
 
 
----
