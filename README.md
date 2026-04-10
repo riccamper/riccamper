@@ -292,6 +292,8 @@ _* indicates equal attribution among the marked authors._
 
 ### Master's Thesis Co-Supervisor
 
+_All these are supervised by Prof M. Brambilla._
+
 <div align="left">
 
 - **Explainable AI and Mechanistic Interpretability:**
@@ -333,8 +335,6 @@ _* indicates equal attribution among the marked authors._
   - Alessia Marino (2025): <br>"**Modeling HCPAP therapy outcome prediction in ARDS patients via large language models**".
 
 </div>
-
-_All these are supervised by Prof M. Brambilla._
 
 </div>
 
