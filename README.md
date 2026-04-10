@@ -123,15 +123,15 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- 🧠 **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: Dissecting internals of deep networks such as LLMs, ViTs and CNNs.
+- 🧠 **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: Dissecting internals of deep networks such as LLMs, Vision Transformers (ViTs) and CNNs.
 
   - 🔍 **Concept-based Explainability**: Designing algorithms that use human-understandable visual concepts to explain how image models ground their decisions.
 
-  - 🧩 **Sparse and Interpretable Architectures**: Designing architectures such as Transcoders, Sparse Autoencoders (SAEs), and Concept Bottleneck Models (CBMs).
+  - 🧩 **Sparse and Interpretable Architectures**: Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
 
   - 📉 **FFT-based Anomaly and Drift Detection**: Analyzing FFT-based, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
 
-- 📊 **Knowledge Graphs (KGs), Semantic Web, and RAG**: Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
+- 📊 **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
 
 - 🏥 **Biomedical AI**: Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
 
