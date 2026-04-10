@@ -188,19 +188,11 @@ _* indicates equal attribution among the marked authors._
 
 <br>
 
-### Projects
+### Other
 
 <div align="left">
 
 - **Energenius Project**: <br>Task contributor in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
-
-</div>
-
-<br>
-
-### Research Community Service
-
-<div align="left">
 
 - **Peer Reviewer**: <br>NeurIPS 2024, CVPR 2025, ICML 2025, AAAI SSS 2025, ICWE 2025, AAAI 2026, AISTATS 2026, CVPR 2026, ICML 2026.
 
