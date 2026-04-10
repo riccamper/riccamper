@@ -22,9 +22,9 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;"> 
 
-## 🎓 Education
+## Education
 
-### 🏛️ Academic Degrees
+### Academic Degrees
 
 | Year | Degree | Institution |
 |---|---|---|
@@ -33,7 +33,7 @@ riccardo (dot) campi (at) polimi (dot) it
 | 2017 - 2020 | BSc in "Ingegneria Informatica" | Politecnico di Milano, Milan - IT |
 | 2012 - 2017 | Scientific High School Diploma | Liceo Scientifico "G. Galilei", Tarquinia - IT |
 
-### 📜 Master's Thesis
+### Master's Thesis
 
 <div align="left">
 
@@ -43,7 +43,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 </div>
 
-### 📘 Selected Coursework
+### Selected Coursework
 
 <div align="left">
 
@@ -60,9 +60,9 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 📚 Publications
+## Publications
 
-### 🎙️ Conference Papers
+### Conference Papers
 
 <div align="left">
 
@@ -78,7 +78,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 _* indicates equal attribution among the marked authors._
 
-### 📰 Journal Articles
+### Journal Articles
 
 <div align="left">
 
@@ -88,7 +88,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 📖 Book Chapters
+### Book Chapters
 
 <div align="left">
 
@@ -100,7 +100,7 @@ _* indicates equal attribution among the marked authors._
 
 _* indicates equal attribution among the marked authors._
 
-### 🧾 Preprints
+### Preprints
 
 <!--*All preprints listed below are currently under review.*-->
 
@@ -120,27 +120,27 @@ _* indicates equal attribution among the marked authors._
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 🧭 Research & Academic Contribution
+## Research & Academic Contribution
 
-### 🔬 Research Topics
+### Research Topics
 
 <div align="left">
 
-- 🧠 **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: Dissecting internals of deep networks such as LLMs, Vision Transformers (ViTs) and CNNs.
+- **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: Dissecting internals of deep networks such as LLMs, Vision Transformers (ViTs) and CNNs.
 
-  - 🔍 **Concept-based Explainability**: Designing algorithms that use human-understandable visual concepts to explain how image models ground their decisions.
+  - **Concept-based Explainability**: Designing algorithms that use human-understandable visual concepts to explain how image models ground their decisions.
 
-  - 🧩 **Sparse and Interpretable Architectures**: Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
+  - **Sparse and Interpretable Architectures**: Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
 
-  - 📉 **FFT-based Anomaly and Drift Detection**: Analyzing spectral, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
+  - **FFT-based Anomaly and Drift Detection**: Analyzing spectral, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
 
-- 📊 **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
+- **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
 
-- 🏥 **Biomedical AI**: Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
+- **Biomedical AI**: Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
 
 </div>
 
-### 🎤 Conference Presentations and Posters
+### Conference Presentations and Posters
 
 *Selected talks, posters, and presentations from conferences and schools.*
 
@@ -162,7 +162,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🎤 Seminars, Talks, and Workshops
+### Seminars, Talks, and Workshops
 
 <div align="left">
 
@@ -174,7 +174,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🤝 Collaborations
+### Collaborations
 
 <div align="left">
 
@@ -192,7 +192,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🧩 Projects
+### Projects
 
 <div align="left">
 
@@ -200,7 +200,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### ✏ Research Community Service
+### Research Community Service
 
 <div align="left">
 
@@ -216,9 +216,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## ✅ Attendance and participation
+## Attendance and participation
 
-### 🎤 Conferences
+### Conferences
 
 <div align="left">
 
@@ -234,7 +234,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🎓 Schools
+### Schools
 
 <div align="left">
 
@@ -250,9 +250,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 👨‍🏫 Teaching and Mentoring
+## Teaching and Mentoring
 
-### 📚 Course Instructor
+### Course Instructor
 
 <div align="left">
 
@@ -270,7 +270,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🏭 Industry Teaching
+### Industry Teaching
 
 <div align="left">
 
@@ -282,7 +282,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 👨‍🎓 Student Supervision
+### Student Supervision
 
 <div align="left">
 
@@ -294,7 +294,7 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
-### 🎓 Master's Thesis Co-Supervisor
+### Master's Thesis Co-Supervisor
 
 All these are supervised by Prof M. Brambilla.
 
@@ -343,16 +343,16 @@ All these are supervised by Prof M. Brambilla.
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 🙋‍♂️ Work Experience
+## Work Experience
 
-### 💼 Professional Experience
+### Professional Experience
 
 | Year | Role | Organization | Description |
 |---|---|---|---|
 | 2023 - 2024 | Research Fellow | Politecnico di Milano | Conducting research in Explainable AI, Mechanistic Interpretability, Knowledge Graphs, RAG, and Biomedical AI; teaching courses; supervising theses; collaborating on research projects. |
 | 2016 - 2020 | Webmaster & Social Media Manager | Optical Expert S.r.l. | Managed the company website, social media accounts, and online marketing efforts. |
 
-### 🧭 Service & Volunteering
+### Service & Volunteering
 
 | Year | Role | Organization | Description |
 |---|---|---|---|
@@ -366,7 +366,7 @@ All these are supervised by Prof M. Brambilla.
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 🌐 Language Certifications
+## Language Certifications
 
 <div align="left">
 
@@ -384,7 +384,7 @@ All these are supervised by Prof M. Brambilla.
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 🛠 Technical Skills
+## Technical Skills
 
 | Area | Stack |
 |---|---|
