@@ -177,7 +177,7 @@ _* indicates equal attribution among the marked authors._
 
 - **MIT Collaboration**: Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
 
-- **XJTU–POLIMI Joint School**: Collaboration for teaching and research activities in the field of Data Science.
+- **XJTU–POLIMI Joint School**: Collaboration for teaching activities in the field of Data Science.
 
 - **Vimercate Hospital, Italy**: Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
 
