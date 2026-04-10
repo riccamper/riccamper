@@ -31,7 +31,7 @@ riccardo (dot) campi (at) polimi (dot) it
 | 2024 - present | Ongoing PhD in Information Technology | Politecnico di Milano, Milan - IT |
 | 2020 - 2023 | MSc in Computer Science and Engineering | Politecnico di Milano, Milan - IT |
 | 2017 - 2020 | BSc in "Ingegneria Informatica" | Politecnico di Milano, Milan - IT |
-| 2012 - 2017 | Scientific High School Diploma | Liceo Scientifico "G. Galilei", Tarquinia - IT |
+| 2012 - 2017 | Scientific High School Diploma | Liceo Scientifico Galilei, Tarquinia - IT |
 
 <br>
 
@@ -157,8 +157,6 @@ _* indicates equal attribution among the marked authors._
 ## Academic Contributions
 
 ### Conference Presentations and Posters
-
-*Selected talks, posters, and presentations from conferences and schools.*
 
 <div align="left">
 
