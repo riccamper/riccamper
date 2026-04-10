@@ -54,7 +54,7 @@ riccardo (dot) campi (at) polimi (dot) it
 <div align="left">
 
 - **Artificial Intelligence:** Artificial NN and Deep Learning, Uncertainty in AI, Streaming Data Analytics.  
-- **Computer Science:** Software Eng. 2, DBs 2, Distributed Sys., Adv. Comp. Arch., Formal Langs. & Compilers.  
+- **Computer Science:** Soft. Eng. 2, DBs 2, Distr. Sys., Adv. Comp. Arch., Formal Langs. & Compilers.  
 - **Computer Security:** Computer Security, Digital Forensics and Cybercrime.  
 - **Other:** Computer Graphics, Mobile Applications Development.  
 
