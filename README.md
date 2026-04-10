@@ -154,7 +154,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## Academic Presentations and Contributions
+## Academic Contributions
 
 ### Conference Presentations and Posters
 
