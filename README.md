@@ -87,12 +87,22 @@ riccardo.campi@polimi.it • [Google Scholar](https://scholar.google.com/citatio
 
 ---
 
-## 🔬 Research Interests
+<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-- 🧠 **Mechanistic Interpretability and Explainable AI (MI, XAI)**: Dissecting internal operations of deep networks such as LLMs, ViTs and CNNs.
-- 🧩 **Sparse and Interpretable Architectures**: Transcoders, Sparse Autoencoders (SAEs), and Concept Bottleneck Models (CBMs).
-- 📊 **Data Science and Knowledge Management**: Knowledge Graphs (KGs) indexing and retrieval, RAG pipelines, and Multi-Hop QA (MH-QA).
-- 📉 **Anomaly and Drift Detection**: FFT-based analysis of generated text for early warning of model failure.
+## 🔬 Research Topics
+
+<div align="left">
+
+- 🧠 **Explainable AI (XAI) and Mechanistic Interpretability (MI)**: Dissecting internal operations of deep networks such as LLMs, ViTs and CNNs.
+  - 🔍 **Concept-based Explainability**: Designing algorithms that use human-understandable visual concepts to explain how image models ground their decisions.
+  - 🧩 **Sparse and Interpretable Architectures**: Designing architectures such as Transcoders, Sparse Autoencoders (SAEs), and Concept Bottleneck Models (CBMs).
+  - 📉 **FFT-based Anomaly and Drift Detection**: Analyzing FFT-based, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
+- 📊 **Data Science and Knowledge Management**: Knowledge Graphs (KGs) indexing and retrieval, RAG pipelines, and Multi-Hop Question Answering (MH-QA).
+- 🏥 **Biomedical AI**: Predictive modeling for ARDS patients, clinical dataset curation, and interpretability in healthcare applications.
+
+</div>
+
+</div>
 
 ---
 
