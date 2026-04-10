@@ -212,20 +212,6 @@ _* indicates equal attribution among the marked authors._
 
 <div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
 
-## 🚀 Selected Current Projects (2025-2027)
-
-| Project | Role | Key Contributions |
-|---|---|---|
-| **Transcoders for LLM Blocks** | Lead Researcher | Designed sparse, fully interpretable networks approximating dense transformer blocks with interpretability/performance trade-offs. |
-| **FFT-Based Anomaly Detection in LLMs** | Lead Researcher | Developed frequency-domain signal analysis on sparse features to detect drift and generation failure modes. |
-| **Concept Bottleneck Integration** | Lead Researcher | Integrated sparse autoencoder features into a concept bottleneck framework, improving interpretability and training efficiency. |
-| **Multi-Hop RAG QA** | Lead Researcher | Built a graph-structured, entity-centric summarization engine for long-context, multi-hop reasoning; under review. |
-| **H-CPAP Dataset Curation** | Lead Researcher | Curated a clinical dataset of COVID-19 and non-COVID pneumonia patients treated with Helmet-CPAP; under review. |
-
----
-
-<div align="center" style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
-
 ## ✅ Attendance and participation
 
 ### 🎤 Conferences
