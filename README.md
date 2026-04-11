@@ -160,7 +160,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**: <br>Poster preparation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster preparation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026 (upcoming).
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**: <br>Poster presentation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster presentation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026 (upcoming).
 
 - **2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA, 2025.
 
