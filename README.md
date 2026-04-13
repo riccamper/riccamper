@@ -72,7 +72,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <div align="left">
 
-- A. De Santis, <u>R. Campi</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://arxiv.org/abs/2411.05698)**", Accepted for publication at *Transactions on Machine Learning Research (TMLR)*, 2026.
+- A. De Santis, <u>R. Campi</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://arxiv.org/abs/2411.05698)**", accepted for publication at *Transactions on Machine Learning Research (TMLR)*, 2026.
 
 - <u>R. Campi</u>, A. De Santis, P. Colombo, P. Scarpazza and M. Masseroli, "**[Machine learning-based forecast of Helmet-CPAP therapy failure in Acute Respiratory Distress Syndrome patients](https://doi.org/10.1016/j.cmpb.2024.108574)**", *Computer Methods and Programs in Biomedicine (CMPB)*, vol. 260, 2025, 108574, ISSN 0169-2607.
 
