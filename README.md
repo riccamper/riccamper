@@ -3,7 +3,7 @@
 
 # Riccardo Campi
 
-### Academic CV - April 9th, 2026
+### Academic CV - April 14th, 2026
 
 #### PhD Student in Information Technology
 Mentored by Prof. M. Brambilla. 
