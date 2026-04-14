@@ -118,7 +118,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- <u>R. Campi</u>, N. O. Pinciroli Vago, M. Giudici, M. Brambilla and P. Fraternali, "**[TCAV Enhancement with Magnitude-Aware Attribution and Activation Visualization](https://arxiv.org/abs/2604.12345)**", *arXiv:2604.12345*, 2026.
+- <u>R. Campi</u>, N. O. Pinciroli Vago, M. Giudici, M. Brambilla and P. Fraternali, "**[MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries](https://arxiv.org/abs/2603.11223)**", *arXiv:2603.11223*, 2026.
 
 <!--- <u>R. Campi</u>, M. Bianchi*, F. P. Panaccione*, C. Bonacina, A. Guerrieri, M. Piluso, P. Scarpazza and M. Brambilla, "**H-CPAP Dataset: A Clinical Dataset of COVID-19 and Non-COVID Pneumonia Patients with Respiratory Failure Treated with Helmet Continuous Positive Airway Pressure**", 2026.-->
 
