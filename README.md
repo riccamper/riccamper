@@ -258,6 +258,8 @@ _* indicates equal attribution among the marked authors._
 
 - **Polimi Data Scientists**: <br>Collaboration with "Polimi Data Scientists" MSc students on various research projects.
 
+- **BEST (Board of European Students of Technology) Milano**: <br>Collaboration with BEST Milan on workshops and talent competition.
+
 </div>
 
 </div>
