@@ -3,7 +3,7 @@
 
 # Riccardo Campi
 
-### Academic CV - April 14th, 2026
+### Academic CV - April 17th, 2026
 
 #### PhD Student in Information Technology
 Mentored by Prof. M. Brambilla. 
@@ -340,11 +340,11 @@ _All these are supervised by Prof M. Brambilla._
 
 <div align="left">
 
-- __*Data Science* course__ (2025-2026): <bR>MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration, China.
-
 - __*Systems and Methods for Big and Unstructured Data*__ (2025-2026): <br>5 CFUs, MSc, Politecnico di Milano, Italy.
 
 - __*Web and Data Science*__ (2025-2026): <br>5 CFUs, MSc, Politecnico di Milano, Italy.
+
+- __*Data Science* course__ (2025-2026): <bR>MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration, China.
 
 - __*Prova Finale di Ingegneria del Software*__ (2024-2025): <bR>3 CFUs, BSc, Politecnico di Milano, Italy.
 
