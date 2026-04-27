@@ -3,7 +3,7 @@
 
 # Riccardo Campi
 
-### Academic CV - April 17th, 2026
+### Academic CV - April 28th, 2026
 
 #### PhD Student in Information Technology
 Mentored by Prof. M. Brambilla. 
@@ -180,17 +180,15 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
+- **Explainable AI & Mechanistic Interpretability Seminar** (April 23th, 2026): <br>Seminar on "**Past, Present, and Future of AI Interpretability: From Concept-based Explainable AI to Mechanistic Interpretability**", <br>Xi'an Jiaotong University, China.
+
 - **Data Science Seminar** (April 9th, 2025): <br>Seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", <br>Politecnico di Milano, Italy.
-
-- **Reply S.r.l. Code Challenge "Prompting the Future"** (Nov 30th, 2024): <br>Judge for the competition as Data Science Lab Representative, <br>Milan, Italy.
-
-- **BEST Academy Workshop (BEST Milan & Levels Tech)** (Oct 31st, 2024): <br>Workshop on "Document Intelligence" as Data Science Lab Representative, <br>Milan, Italy.
 
 </div>
 
 <br>
 
-### Other
+### Other Academic Contributions
 
 <div align="left">
 
@@ -236,6 +234,18 @@ _* indicates equal attribution among the marked authors._
 
 </div>
 
+<br>
+
+### Events
+
+<div align="left">
+
+- **Reply S.r.l. Code Challenge "Prompting the Future"** (Nov 30th, 2024): <br>Judge for the competition as Data Science Lab Representative, <br>Milan, Italy.
+
+- **BEST Academy Workshop (BEST Milan & Levels Tech)** (Oct 31st, 2024): <br>Workshop on "Document Intelligence" as Data Science Lab Representative, <br>Milan, Italy.
+
+</div>
+
 </div>
 
 <br><br>
@@ -246,9 +256,11 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **MIT Collaboration for XAI**: <br>Collaboration with an MIT researcher, providing mentorship on synthetic concept generation for XAI.
+- **Xi'an Jiaotong University, China**: <br>Collaboration for teaching activities in the field of Data Science; Collaboration for a research project on Explainable AI for Vision-language Models with Xi'an Jiaotong University under the XJTU–POLIMI Joint School, China.
 
-- **XJTU–POLIMI Joint School**: <br>Collaboration for teaching activities in the field of Data Science.
+- **University of Illinois Chicago, USA**: <br>Collaboration with University of Illinois Chicago for a Mechanistic Interpretability research project.
+
+- **Massachusetts Institute of Technology, USA**: <br>Providing mentorship to a MIT researcher on synthetic concept generation for XAI.
 
 - **Vimercate Hospital, Italy**: <br>Collaboration for the development of a machine learning-based predictive model for ARDS patients treated with Helmet-CPAP.
 
@@ -276,7 +288,7 @@ _* indicates equal attribution among the marked authors._
 
 - **Web and Data Science Course Projects** (2025-2026): <br>Supervised *Web and Data Science* course projects for MSc students at Politecnico di Milano.
 
-- **MIT Collaboration for XAI** (2024-2025): <br>Mentored a visiting MIT student at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI.
+- **Synthetic Concept Generation for XAI** (2024-2025): <br>Mentored a visiting student from MIT at Politecnico, funded under the Rocca Project, focusing on synthetic concept generation for XAI.
 
 - **Polimi Data Scientists** (2024-2025): <br>Supervised "Polimi Data Scientists" MSc students on various research projects, including RAG, KGs, and XAI.
 
@@ -346,7 +358,7 @@ _All these are supervised by Prof M. Brambilla._
 
 - __*Web and Data Science*__ (2025-2026): <br>5 CFUs, MSc, Politecnico di Milano, Italy.
 
-- __*Data Science* course__ (2025-2026): <bR>MSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration, China.
+- __*Data Science* course__ (2025-2026): <bR>BSc, Xi'an Jiaotong University under the XJTU–POLIMI Joint School collaboration, China.
 
 - __*Prova Finale di Ingegneria del Software*__ (2024-2025): <bR>3 CFUs, BSc, Politecnico di Milano, Italy.
 
