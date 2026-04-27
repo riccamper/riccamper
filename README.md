@@ -268,9 +268,9 @@ _* indicates equal attribution among the marked authors._
 
 - **Università di Pisa, Italy**: <br>Collaboration for the development of analytical tools for assessing the impact of conservation treatments on textiles.
 
-- **Polimi Data Scientists**: <br>Collaboration with "Polimi Data Scientists" MSc students on various research projects.
+- **Polimi Data Scientists, Italy**: <br>Collaboration with "Polimi Data Scientists" MSc students on various research projects.
 
-- **BEST (Board of European Students of Technology) Milano**: <br>Collaboration with BEST Milan on workshops and talent competition.
+- **BEST (Board of European Students of Technology) Milan, Italy**: <br>Collaboration with BEST Milan on workshops and talent competition.
 
 </div>
 
