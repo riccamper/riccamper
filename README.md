@@ -192,8 +192,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-**Gold Reviewer, ICML 2026**: <br>recognized among top reviewers and awarded complimentary conference registration
+- **Gold Reviewer - ICML 2026**: <br>recognized among top reviewers and awarded complimentary conference registration
 
+- **Conference Reviewer**: 
 `ICML 2026`, `CVPR 2026`, `AISTATS 2026`, `AAAI 2026`, `ICWE 2025`, `AAAI SSS 2025`, `ICML 2025`, `CVPR 2025`, `NeurIPS 2024`
 
 </div>
