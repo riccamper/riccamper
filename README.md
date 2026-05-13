@@ -188,13 +188,23 @@ _* indicates equal attribution among the marked authors._
 
 <br>
 
+### Peer Reviewer
+
+<div align="left">
+
+**Gold Reviewer, ICML 2026**: <br>recognized among top reviewers and awarded complimentary conference registration
+
+`ICML 2026`, `CVPR 2026`, `AISTATS 2026`, `AAAI 2026`, `ICWE 2025`, `AAAI SSS 2025`, `ICML 2025`, `CVPR 2025`, `NeurIPS 2024`
+
+</div>
+
+<br>
+
 ### Other Academic Contributions
 
 <div align="left">
 
 - **Energenius Project**: <br>Task contributor in the [Energenius project](https://energenius-project.eu/) (European Union’s Horizon Europe), focused on developing a conversational agent for energy efficiency.
-
-- **Peer Reviewer**: <br>NeurIPS 2024, CVPR 2025, ICML 2025, AAAI SSS 2025, ICWE 2025, AAAI 2026, AISTATS 2026, CVPR 2026, ICML 2026.
 
 - **Website Maintainer**: <br>Maintaining the [Data Science Lab](https://datascience.deib.polimi.it/) website, curating content and resources for students and researchers.
 
