@@ -266,8 +266,6 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Xi'an Jiaotong University, China**: <br>Collaboration for teaching activities in the field of Data Science; Collaboration for a research project on Explainable AI for Vision-language Models with Xi'an Jiaotong University under the XJTU–POLIMI Joint School, China.
-
 - **University of Illinois Chicago, USA**: <br>Collaboration with University of Illinois Chicago for a Mechanistic Interpretability research project.
 
 - **Massachusetts Institute of Technology, USA**: <br>Providing mentorship to a MIT researcher on synthetic concept generation for XAI.
