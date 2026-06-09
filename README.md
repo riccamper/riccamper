@@ -10,7 +10,7 @@ Mentored by Prof. M. Brambilla.
 
 Politecnico di Milano, DEIB, Italy  
 riccardo (dot) campi (at) polimi (dot) it  
-[Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it) • [GitHub](https://github.com/riccamper) • [Data Science Lab's GitHub](https://github.com/DataSciencePolimi)
+[Google Scholar](https://scholar.google.com/citations?user=JWSoz7EAAAAJ&hl=it) • [GitHub](https://github.com/riccamper)
 
 `AI`, `Explainable AI (XAI)`, `Mechanistic Interpretability (MI)`, `Sparse Autoencoders (SAEs)`, `Spectral Analysis`, `TCAV & Visual-TCAV`, `Human-understandable Visual Concepts`, `Concept Bottleneck Models (CBMs)`, `Retrieval-Augmented Generation (RAG)`, `Knowledge Graphs (KGs)`, `Biomedical AI`, `Deep Learning`
 
