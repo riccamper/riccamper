@@ -86,7 +86,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <div align="left">
 
-- <u>G. Astolfi*, M. Bianchi*, R. Campi*</u>, A. De Santis and M. Brambilla, "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)*, Denver, CO, USA, 2026.
+- <u>G. Astolfi*, M. Bianchi*, R. Campi*</u>, A. De Santis and M. Brambilla, "**[A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability](https://arxiv.org/abs/2605.19855)**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)*, Denver, CO, USA, 2026.
 
 - <u>M. Bianchi*, R. Campi*, A. De Santis*, S. Merengo*</u> and M. Brambilla, "**Activation-Based Concept Extraction for Explainability in Image Classification**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Denver, CO, USA, 2026.
 
