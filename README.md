@@ -72,7 +72,7 @@ riccardo (dot) campi (at) polimi (dot) it
 
 <div align="left">
 
-- A. De Santis, <u>R. Campi</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://openreview.net/forum?id=SLh00W5rhu)**", *Transactions on Machine Learning Research (TMLR)*, 2835-8856, 2026.
+- A. De Santis*, <u>R. Campi*</u>, M. Bianchi and M. Brambilla, "**[Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification](https://openreview.net/forum?id=SLh00W5rhu)**", *Transactions on Machine Learning Research (TMLR)*, 2835-8856, 2026.
 
 - <u>R. Campi</u>, A. De Santis, P. Colombo, P. Scarpazza and M. Masseroli, "**[Machine learning-based forecast of Helmet-CPAP therapy failure in Acute Respiratory Distress Syndrome patients](https://doi.org/10.1016/j.cmpb.2024.108574)**", *Computer Methods and Programs in Biomedicine (CMPB)*, vol. 260, 2025, 108574, ISSN 0169-2607.
 
@@ -80,15 +80,17 @@ riccardo (dot) campi (at) polimi (dot) it
 
 </div>
 
+_* indicates equal attribution among the marked authors._
+
 <br>
 
 ### Conference Papers
 
 <div align="left">
 
-- <u>G. Astolfi*, M. Bianchi*, R. Campi*</u>, A. De Santis and M. Brambilla, "**[A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability](https://arxiv.org/abs/2605.19855)**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)*, Denver, CO, USA, 2026.
+- G. Astolfi*, M. Bianchi*, <u>R. Campi*</u>, A. De Santis and M. Brambilla, "**[A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability](https://arxiv.org/abs/2605.19855)**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPRF)*, Denver, CO, USA, 2026.
 
-- <u>M. Bianchi*, R. Campi*, A. De Santis*, S. Merengo*</u> and M. Brambilla, "**Activation-Based Concept Extraction for Explainability in Image Classification**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Denver, CO, USA, 2026.
+- M. Bianchi*, <u>R. Campi*</u>, A. De Santis*, S. Merengo* and M. Brambilla, "**Activation-Based Concept Extraction for Explainability in Image Classification**", accepted at *2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Denver, CO, USA, 2026.
 
 - <u>R. Campi</u>, S. Borrego, A. De Santis, M. Bianchi, A. Tocchetti and M. Brambilla, "**[Towards Synthetic Concept Activation Vectors via Generative Models](https://doi.org/10.1109/CVPRW67362.2025.00256)**", *2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, Nashville, TN, USA, 2025, pp 2711-2719.
 
@@ -104,9 +106,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- <u>A. De Santis*, R. Campi*, M. Bianchi*</u>, A. Tocchetti and M. Brambilla, "**[Foundational approaches to post-hoc explainability for image classification](https://doi.org/10.1016/B978-0-44-340553-2.00008-3)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 23-54, ISBN 9780443405532.
+- A. De Santis*, <u>R. Campi*</u>, M. Bianchi*, A. Tocchetti and M. Brambilla, "**[Foundational approaches to post-hoc explainability for image classification](https://doi.org/10.1016/B978-0-44-340553-2.00008-3)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 23-54, ISBN 9780443405532.
 
-- A. Tocchetti, <u>M. Bianchi*, R. Campi*, A. De Santis*</u> and M. Brambilla, "**[On the principles and effectiveness of gamification in bidirectional artificial intelligence and explainable AI](https://doi.org/10.1016/B978-0-44-340553-2.00012-5)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 135-160, ISBN 9780443405532.
+- A. Tocchetti, M. Bianchi*, <u>R. Campi*</u>, A. De Santis* and M. Brambilla, "**[On the principles and effectiveness of gamification in bidirectional artificial intelligence and explainable AI](https://doi.org/10.1016/B978-0-44-340553-2.00012-5)**", *Bi-directionality in Human-AI Collaborative Systems*, Academic Press, 2025, Pages 135-160, ISBN 9780443405532.
 
 </div>
 
