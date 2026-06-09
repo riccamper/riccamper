@@ -162,7 +162,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**: <br>Poster presentation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster presentation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026 (upcoming).
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**: <br>Poster preparation and presentation for "**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**", <br>Poster presentation for "**Activation-Based Concept Extraction for Explainability in Image Classification**", <br>Denver, CO, USA, 2026.
 
 - **2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)**: <br>Poster preparation for "**Towards Synthetic Concept Activation Vectors via Generative Models**", <br>Nashville, TN, USA, 2025.
 
@@ -170,7 +170,7 @@ _* indicates equal attribution among the marked authors._
 
 - **2025 AAAI Spring Symposium on Bi-directionality in Human-AI Collaborative Systems**: <br>Oral and poster presentation of "**Enhancing Human-AI Collaboration through a Conversational Agent for Energy Efficiency**", <br>Oral and poster presentation of "**Human-AI Collaboration in the Fashion Design Process**", <br>San Francisco, CA, USA, 2025.
 
-- **2025 International Semantic Web Research Summer School (ISWS 2025)**: <br>Poster presentation on RAG and KGs, <br>Bertinoro, Italy, 2025.
+- **2025 International Semantic Web Research Summer School (ISWS 2025)**: <br>Oral and poster presentation on **Kg-based RAG for Energy Efficiency**, <br>Bertinoro, Italy, 2025.
 
 </div>
 
@@ -222,7 +222,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA, 2026 (upcoming).
+- **2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** <br>Denver, CO, USA, 2026.
 
 - **2025 International Conference on Web Engineering (ICWE 2025)** <br>Delft, Netherlands, 2025.
 
@@ -266,7 +266,7 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **University of Illinois Chicago, USA**: <br>Collaboration with University of Illinois Chicago for a Mechanistic Interpretability research project.
+<!-- - **University of Illinois Chicago, USA**: <br>Collaboration with University of Illinois Chicago on a Mechanistic Interpretability research project. -->
 
 - **Massachusetts Institute of Technology, USA**: <br>Providing mentorship to a MIT researcher on synthetic concept generation for XAI.
 
