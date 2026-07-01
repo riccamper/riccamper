@@ -6,7 +6,6 @@
 ### Academic CV - July 1st, 2026
 
 #### PhD Student in Information Technology
-Mentored by Prof. M. Brambilla. 
 
 Politecnico di Milano, DEIB, Italy  
 riccardo (dot) campi (at) polimi (dot) it  
