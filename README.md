@@ -182,9 +182,11 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-- **Explainable AI & Mechanistic Interpretability Seminar** (April 23th, 2026): <br>Seminar on "**Past, Present, and Future of AI Interpretability: From Concept-based Explainable AI to Mechanistic Interpretability**", <br>Xi'an Jiaotong University, China.
+- **AI Interpretability Seminar** (June 19th, 2026): <br>Seminar on "**From Concept-based Explainable AI for CNNs to Mechanistic Interpretability for LLMs**", <br>University of Illinois Chicago, USA.
 
-- **Data Science Seminar** (April 9th, 2025): <br>Seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", <br>Politecnico di Milano, Italy.
+- **Explainable AI Seminar** (April 23th, 2026): <br>Seminar on "**Past, Present, and Future of AI Interpretability**", <br>Xi'an Jiaotong University, China.
+
+- **Data Science Seminar on Explainable AI** (April 9th, 2025): <br>Seminar on "**Foundations of Explainable AI: Principles and Model-Agnostic Approaches to Transparency**", <br>Politecnico di Milano, Italy.
 
 </div>
 
