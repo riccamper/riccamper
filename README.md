@@ -144,6 +144,8 @@ _* indicates equal attribution among the marked authors._
   - **Sparse and Interpretable Architectures**: <br>Designing architectures such as Sparse Autoencoders (SAEs), Transcoders, and Concept Bottleneck Models (CBMs).
 
   - **FFT-based Anomaly and Drift Detection**: <br>Analyzing spectral, sparse signatures of generated text for early warning of model failure (e.g., hallucination).
+ 
+- **AI Safety and Recursive Self-Improvement (RSI)**: <br>Researching methods for safe, aligned, and interpretable RSI in increasingly autonomous AI systems.
 
 - **Knowledge Graphs (KGs), Semantic Web, and Retrieval Augmented Generation (RAG)**: <br>Semantic Web and KGs, RAG pipelines such as indexing and retrieval, and Multi-Hop Question Answering (MH-QA).
 
