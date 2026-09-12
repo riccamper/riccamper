@@ -199,6 +199,8 @@ _* indicates equal attribution among the marked authors._
 
 - **Conference Reviewer**: <br>`ICML 2026`, `CVPR 2026`, `AISTATS 2026`, `AAAI 2026`, `ICWE 2025`, `AAAI SSS 2025`, `ICML 2025`, `CVPR 2025`, `NeurIPS 2024`
 
+- **Journal Reviewer**: <br>`Cancer Treatment and Research Communications`
+
 </div>
 
 <br>
