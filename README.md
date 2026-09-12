@@ -3,7 +3,7 @@
 
 # Riccardo Campi
 
-### Academic CV - July 1st, 2026
+### Academic CV - September 12th, 2026
 
 #### PhD Student in Information Technology
 
@@ -271,7 +271,9 @@ _* indicates equal attribution among the marked authors._
 
 <div align="left">
 
-<!-- - **University of Illinois Chicago, USA**: <br>Collaboration with University of Illinois Chicago on a Mechanistic Interpretability research project. -->
+- **University of Illinois Chicago, USA**: <br>Collaboration with University of Illinois Chicago on a Recursive Self-improvement (RSI) for Ai Safety research project.
+
+- **Xi'an University, China**: <br>Collaboration with Xi'an University on a Automatic Speech Recognition (ASR) subtitle segmentation research project.
 
 - **Massachusetts Institute of Technology, USA**: <br>Providing mentorship to a MIT researcher on synthetic concept generation for XAI.
 
